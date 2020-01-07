@@ -1,0 +1,33 @@
+Group,Club,Website,P,W,D,L,GF,GA,GD,Pts,fbrefcode
+Group A,Paris Saint-Germain,/Teams/304/Show/France-Paris-Saint-Germain,6,5,1,0,17,2,+15,16,e2d8892c
+Group A,Real Madrid,/Teams/52/Show/Spain-Real-Madrid,6,3,2,1,14,8,+6,11,53a2f082
+Group A,Club Brugge,/Teams/124/Show/Belgium-Club-Brugge,6,0,3,3,4,12,-8,3,f1e6c5f1
+Group A,Galatasaray,/Teams/294/Show/Turkey-Galatasaray,6,0,2,4,1,14,-13,2,ecd11ca2
+Group B,Bayern Munich,/Teams/37/Show/Germany-Bayern-Munich,6,6,0,0,24,5,+19,18,054efa67
+Group B,Tottenham,/Teams/30/Show/England-Tottenham,6,3,1,2,18,14,+4,10,361ca564
+Group B,Olympiacos,/Teams/843/Show/Greece-Olympiacos,6,1,1,4,8,14,-6,4,2fdb4aef
+Group B,FK Crvena Zvezda,/Teams/579/Show/Serbia-FK-Crvena-Zvezda,6,1,0,5,3,20,-17,3,099c6eb5
+Group C,Manchester City,/Teams/167/Show/England-Manchester-City,6,4,2,0,16,4,+12,14,b8fd03ef
+Group C,Atalanta,/Teams/300/Show/Italy-Atalanta,6,2,1,3,8,12,-4,7,922493f3
+Group C,Shakhtar Donetsk,/Teams/1706/Show/Ukraine-Shakhtar-Donetsk,6,1,3,2,8,13,-5,6,e89d5a28
+Group C,Dinamo Zagreb,/Teams/684/Show/Croatia-Dinamo-Zagreb,6,1,2,3,10,13,-3,5,edd0d381
+Group F,Barcelona,/Teams/65/Show/Spain-Barcelona,6,4,2,0,9,4,+5,14,206d90db
+Group F,Borussia Dortmund,/Teams/44/Show/Germany-Borussia-Dortmund,6,3,1,2,8,8,0,10,add600ae
+Group F,Inter,/Teams/75/Show/Italy-Inter,6,2,1,3,10,9,+1,7,d609edc0
+Group F,Slavia Prague,/Teams/349/Show/Czech-Republic-Slavia-Prague,6,0,2,4,4,10,-6,2,111cbfb1
+Group E,Liverpool,/Teams/26/Show/England-Liverpool,6,4,1,1,13,8,+5,13,822bd0ba
+Group E,Napoli,/Teams/276/Show/Italy-Napoli,6,3,3,0,11,4,+7,12,d48ad4ff
+Group E,Salzburg,/Teams/361/Show/Austria-Salzburg,6,2,1,3,16,13,+3,7,50f2a074
+Group E,Genk,/Teams/140/Show/Belgium-Genk,6,0,1,5,5,20,-15,1,1e972a99
+Group D,Juventus,/Teams/87/Show/Italy-Juventus,6,5,1,0,12,4,+8,16,e0652b02
+Group D,Atletico Madrid,/Teams/63/Show/Spain-Atletico-Madrid,6,3,1,2,8,5,+3,10,db3b9613
+Group D,Bayer Leverkusen,/Teams/36/Show/Germany-Bayer-Leverkusen,6,2,0,4,5,9,-4,6,c7a9f859
+Group D,Lokomotiv Moscow,/Teams/668/Show/Russia-Lokomotiv-Moscow,6,1,0,5,4,11,-7,3,5a8dc328
+Group G,RasenBallsport Leipzig,/Teams/7614/Show/Germany-RasenBallsport-Leipzig,6,3,2,1,10,8,+2,11,acbb6a5b
+Group G,Lyon,/Teams/228/Show/France-Lyon,6,2,2,2,9,8,+1,8,d53c0b06
+Group G,Benfica,/Teams/299/Show/Portugal-Benfica,6,2,1,3,10,11,-1,7,a77c513e
+Group G,Zenit St. Petersburg,/Teams/560/Show/Russia-Zenit-St-Petersburg,6,2,1,3,7,9,-2,7,98ce363d
+Group H,Valencia,/Teams/55/Show/Spain-Valencia,6,3,2,1,9,7,+2,11,dcc91a7b
+Group H,Chelsea,/Teams/15/Show/England-Chelsea,6,3,2,1,11,9,+2,11,cff3d9bb
+Group H,Ajax,/Teams/130/Show/Netherlands-Ajax,6,3,1,2,12,6,+6,10,19c3f8c4
+Group H,Lille,/Teams/607/Show/France-Lille,6,0,1,5,4,14,-10,1,cb188c0c

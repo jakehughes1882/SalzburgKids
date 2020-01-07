@@ -1,0 +1,753 @@
+NPxG,Assists,PKAttempts,PlayerName,Starts,PlayerPos,xA,PlayerAge,xG,MatchesPlayed,Goals,Team,RedCards,Minutes,PlayerNat,YellowCards,PKScored
+0.0,2,0,Juan Bernat,6,"DF,FW",1.5,26,0.0,6,0,Paris Saint-Germain,1,525,ESP,1,0
+0.1,0,0,Marquinhos,6,DF,0.2,25,0.1,6,0,Paris Saint-Germain,0,520,BRA,0,0
+4.1,0,0,Mauro Icardi,6,FW,0.1,26,4.1,6,5,Paris Saint-Germain,1,401,ARG,1,0
+0.0,0,0,Marco Verratti,5,MF,1.5,26,0.0,6,0,Paris Saint-Germain,2,465,ITA,2,0
+0.0,0,0,Presnel Kimpembe,5,DF,0.0,23,0.0,5,0,Paris Saint-Germain,0,450,FRA,0,0
+0.0,0,0,Keylor Navas,5,GK,0.0,32,0.0,5,0,Paris Saint-Germain,0,450,CRC,0,0
+0.1,0,0,Thiago Silva,5,DF,0.0,34,0.1,5,0,Paris Saint-Germain,1,450,BRA,1,0
+2.0,3,0,Ángel Di María,5,"FW,MF",2.3,31,2.0,5,2,Paris Saint-Germain,2,428,ARG,2,0
+0.8,0,0,Thomas Meunier,4,DF,0.4,27,0.8,4,1,Paris Saint-Germain,2,360,BEL,2,0
+0.1,1,0,Idrissa Gana Gueye,4,MF,0.2,29,0.1,4,0,Paris Saint-Germain,0,315,SEN,0,0
+4.8,3,0,Kylian Mbappé,3,FW,1.8,20,4.8,5,5,Paris Saint-Germain,0,330,FRA,0,0
+0.7,1,0,Pablo Sarabia,3,MF,1.6,27,0.7,5,2,Paris Saint-Germain,0,265,ESP,0,0
+0.7,2,0,Neymar,1,"FW,MF",0.9,27,0.7,2,1,Paris Saint-Germain,0,135,BRA,0,0
+0.0,0,0,Leandro Paredes,1,MF,0.0,25,0.0,2,0,Paris Saint-Germain,0,115,ARG,0,0
+0.0,0,0,Abdou Diallo,1,DF,0.0,23,0.0,3,0,Paris Saint-Germain,0,109,FRA,0,0
+0.1,0,0,Eric Maxim Choupo-Moting,1,FW,0.7,30,0.1,3,0,Paris Saint-Germain,1,101,CMR,1,0
+0.0,0,0,Ander Herrera,1,MF,0.0,29,0.0,3,0,Paris Saint-Germain,1,99,ESP,1,0
+0.0,0,0,Colin Dagba,1,DF,0.1,20,0.0,1,0,Paris Saint-Germain,0,90,FRA,0,0
+0.1,0,0,Layvin Kurzawa,1,DF,0.0,26,0.1,1,0,Paris Saint-Germain,1,90,FRA,1,0
+0.0,0,0,Sergio Rico,1,GK,0.0,25,0.0,1,0,Paris Saint-Germain,0,90,ESP,0,0
+0.0,0,0,Nianzou Kouassi,1,DF,0.0,17,0.0,1,0,Paris Saint-Germain,0,75,FRA,0,0
+0.0,0,1,Edinson Cavani,0,"FW,MF",0.0,32,0.8,2,1,Paris Saint-Germain,0,40,URU,0,1
+0.1,0,0,Julian Draxler,0,"FW,MF",0.0,25,0.1,2,0,Paris Saint-Germain,0,22,GER,0,0
+0.0,0,0,Thilo Kehrer,0,DF,0.0,22,0.0,1,0,Paris Saint-Germain,0,15,GER,0,0
+0.7,0,0,Raphaël Varane,6,"DF,MF",0.0,26,0.7,6,0,Real Madrid,1,540,FRA,1,0
+0.3,1,0,Casemiro,6,MF,0.4,27,0.3,6,1,Real Madrid,1,510,BRA,1,0
+4.6,2,0,Karim Benzema,5,FW,3.1,31,4.6,6,4,Real Madrid,0,463,FRA,0,0
+0.2,1,0,Dani Carvajal,5,DF,1.4,27,0.2,5,0,Real Madrid,1,450,ESP,1,0
+1.1,1,0,Toni Kroos,5,MF,1.3,29,1.1,5,1,Real Madrid,1,450,GER,1,0
+0.0,0,0,Thibaut Courtois,5,GK,0.0,27,0.0,5,0,Real Madrid,1,405,BEL,1,0
+1.4,1,0,Eden Hazard,5,"FW,MF",0.7,28,1.4,5,0,Real Madrid,1,376,BEL,1,0
+0.9,0,1,Sergio Ramos,4,DF,0.0,33,1.7,4,2,Real Madrid,0,360,ESP,0,1
+1.5,2,0,Rodrygo,3,FW,0.9,18,1.5,4,4,Real Madrid,0,270,BRA,0,0
+0.2,3,0,Marcelo,3,"DF,MF",1.4,31,0.2,4,0,Real Madrid,1,267,BRA,1,0
+0.1,0,0,Federico Valverde,3,MF,0.6,21,0.1,4,0,Real Madrid,1,251,URU,1,0
+0.0,0,0,Ferland Mendy,2,DF,0.0,24,0.0,3,0,Real Madrid,0,228,FRA,0,0
+0.3,0,0,Luka Modrić,2,MF,0.2,33,0.3,4,1,Real Madrid,1,224,CRO,1,0
+1.0,0,0,Isco,2,MF,0.1,27,1.0,3,0,Real Madrid,0,188,ESP,0,0
+0.1,0,0,Éder Militão,2,"DF,MF",0.0,21,0.1,2,0,Real Madrid,0,180,BRA,0,0
+0.0,0,0,Alphonse Areola,1,GK,0.0,26,0.0,2,0,Real Madrid,0,135,FRA,0,0
+0.6,0,0,Vinicius Júnior,1,MF,0.6,19,0.6,4,1,Real Madrid,1,118,BRA,1,0
+0.4,0,0,Luka Jović,1,FW,0.2,21,0.4,3,0,Real Madrid,0,105,SRB,0,0
+0.3,0,0,Gareth Bale,1,"FW,MF",0.0,30,0.3,2,0,Real Madrid,0,100,WAL,0,0
+0.0,1,0,Álvaro Odriozola,1,DF,0.0,23,0.0,1,0,Real Madrid,0,90,ESP,0,0
+0.1,0,0,Lucas Vázquez,1,"FW,MF",0.2,28,0.1,2,0,Real Madrid,0,87,ESP,0,0
+0.1,0,0,James Rodríguez,1,"FW,MF",0.0,28,0.1,2,0,Real Madrid,0,81,COL,0,0
+0.0,0,0,Nacho,1,DF,0.0,29,0.0,1,0,Real Madrid,0,45,ESP,0,0
+0.0,0,0,Brahim Díaz,0,MF,0.0,19,0.0,1,0,Real Madrid,0,17,ESP,0,0
+,,,Adrián de la Fuente,0,DF,,20,,0,,Real Madrid,,,ESP,,
+0.2,0,0,Simon Deli,6,DF,0.1,27,0.2,6,0,Club Brugge,0,540,CIV,0,0
+0.0,0,0,Simon Mignolet,6,GK,0.0,31,0.0,6,0,Club Brugge,1,540,BEL,1,0
+0.4,0,0,Hans Vanaken,6,MF,0.7,26,0.4,6,1,Club Brugge,0,540,BEL,0,0
+2.6,1,0,Emmanuel Dennis,6,FW,0.2,21,2.6,6,2,Club Brugge,0,458,NGA,0,0
+0.2,0,0,Brandon Mechele,5,DF,0.0,26,0.2,5,0,Club Brugge,0,450,BEL,0,0
+0.3,0,0,Krepin Diatta,5,MF,0.5,20,0.3,5,1,Club Brugge,2,436,SEN,2,0
+0.2,0,0,Mats Rits,5,MF,0.1,26,0.2,5,0,Club Brugge,1,397,BEL,1,0
+0.0,1,0,Clinton Mata,4,MF,0.0,26,0.0,4,0,Club Brugge,2,359,ANG,2,0
+0.1,0,0,Éder Álvarez Balanta,3,DF,0.3,26,0.1,5,0,Club Brugge,2,284,COL,2,0
+0.1,0,0,Federico Ricca,3,"DF,MF",0.4,24,0.1,3,0,Club Brugge,1,270,URU,1,0
+0.0,0,0,Ruud Vormer,3,MF,1.1,31,0.0,3,0,Club Brugge,3,263,NED,3,0
+0.0,0,0,Eduard Sobol,3,DF,0.0,24,0.0,3,0,Club Brugge,1,260,UKR,1,0
+0.7,1,0,Percy Tau,3,FW,0.6,25,0.7,3,0,Club Brugge,0,239,RSA,0,0
+0.0,0,0,Odilon Kossonou,2,DF,0.2,18,0.0,2,0,Club Brugge,1,180,CIV,1,0
+1.3,0,0,David Okereke,2,,0.0,21,1.3,4,0,Club Brugge,0,173,NGA,0,0
+0.4,0,0,Loïs Openda,1,FW,0.0,19,0.4,4,0,Club Brugge,2,137,BEL,2,0
+0.1,0,0,Charles De Ketelaere,1,MF,0.1,18,0.1,4,0,Club Brugge,1,126,BEL,1,0
+0.1,0,0,Matej Mitrović,1,DF,0.0,25,0.1,1,0,Club Brugge,0,90,CRO,0,0
+0.0,0,0,Thibault Vlietinck,1,MF,0.1,21,0.0,1,0,Club Brugge,0,70,BEL,0,0
+0.2,0,0,Siebe Schrijvers,0,FW,0.1,23,0.2,4,0,Club Brugge,0,76,BEL,0,0
+0.0,0,1,Mbaye Diagne,0,FW,0.0,27,0.8,2,0,Club Brugge,0,40,SEN,0,0
+0.0,0,0,Dion Cools,0,DF,0.0,23,0.0,1,0,Club Brugge,0,3,BEL,0,0
+,,,Ethan Horvath,0,GK,,24,,0,,Club Brugge,,,USA,,
+,,,Jelle Vossen,0,FW,,30,,0,,Club Brugge,,,BEL,,
+0.0,0,0,Marcão,6,DF,0.0,23,0.0,6,0,Galatasaray,2,540,BRA,2,0
+0.0,0,0,Mariano,6,DF,0.2,33,0.0,6,0,Galatasaray,2,540,BRA,2,0
+0.0,0,0,Fernando Muslera,6,GK,0.0,33,0.0,6,0,Galatasaray,2,540,URU,2,0
+0.0,0,0,Yuto Nagatomo,6,DF,0.1,32,0.0,6,0,Galatasaray,1,525,JPN,1,0
+0.1,0,0,Jean Seri,6,MF,0.4,28,0.1,6,0,Galatasaray,1,478,CIV,1,0
+0.2,0,0,Steven Nzonzi,5,MF,0.0,30,0.2,5,0,Galatasaray,4,387,FRA,4,0
+0.0,0,0,Ryan Donk,4,DF,0.1,33,0.0,6,0,Galatasaray,1,360,NED,1,0
+0.1,0,0,Christian Luyindama,4,DF,0.0,25,0.1,4,0,Galatasaray,0,360,COD,0,0
+0.6,0,0,Ryan Babel,4,"FW,MF",0.3,32,0.6,4,0,Galatasaray,1,334,NED,1,0
+0.3,0,0,Mario Lemina,4,"DF,MF",0.0,25,0.3,4,0,Galatasaray,3,330,GAB,3,0
+0.4,0,0,Younès Belhanda,4,MF,0.4,29,0.4,4,0,Galatasaray,1,306,MAR,1,0
+0.2,0,0,Sofiane Feghouli,3,MF,0.1,29,0.2,5,0,Galatasaray,0,343,ALG,0,0
+0.1,1,0,Ömer Bayram,2,"FW,MF",0.5,28,0.1,5,0,Galatasaray,0,251,TUR,0,0
+0.2,0,0,Radamel Falcao,2,FW,0.1,33,0.2,3,0,Galatasaray,1,208,COL,1,0
+0.6,0,0,Florin Andone,2,FW,0.0,26,0.6,3,0,Galatasaray,0,161,ROU,0,0
+0.1,0,0,Emre Mor,1,MF,0.1,22,0.1,4,0,Galatasaray,1,108,TUR,1,0
+0.4,0,0,Adem Büyük,1,FW,0.0,31,0.4,2,1,Galatasaray,0,92,TUR,0,0
+0.0,0,0,Selçuk İnan,0,MF,0.0,34,0.0,2,0,Galatasaray,1,59,TUR,1,0
+0.0,0,0,Şener Özbayraklı,0,DF,0.0,29,0.0,2,0,Galatasaray,0,18,TUR,0,0
+0.0,0,0,Erencan Yardimci,0,FW,0.0,17,0.0,1,0,Galatasaray,0,,TUR,0,0
+,,,Yunus Akgün,0,FW,,19,,0,,Galatasaray,,,TUR,,
+,,,Emin Bayram,0,DF,,16,,0,,Galatasaray,,,TUR,,
+,,,Gökay Güney,0,MF,,20,,0,,Galatasaray,,,TUR,,
+,,,Işık Kaan Arslan,0,DF,,18,,0,,Galatasaray,,,TUR,,
+,,,Okan Kocuk,0,GK,,24,,0,,Galatasaray,,,TUR,,
+0.0,0,0,Manuel Neuer,6,GK,0.0,33,0.0,6,0,Bayern Munich,1,540,GER,1,0
+0.5,2,0,Benjamin Pavard,6,DF,0.7,23,0.5,6,0,Bayern Munich,0,540,FRA,0,0
+0.2,0,0,Joshua Kimmich,5,MF,0.8,24,0.2,6,1,Bayern Munich,1,472,GER,1,0
+6.0,0,1,Robert Lewandowski,5,FW,0.5,30,6.8,5,10,Bayern Munich,0,437,POL,0,1
+1.9,2,0,Philippe Coutinho,5,"FW,MF",0.8,27,1.9,6,1,Bayern Munich,0,413,BRA,0,0
+2.0,1,0,Kingsley Coman,5,"FW,MF",0.5,23,2.0,5,2,Bayern Munich,0,368,FRA,0,0
+1.4,2,0,Thiago Alcántara,4,MF,1.1,28,1.4,5,0,Bayern Munich,1,405,ESP,1,0
+1.3,1,0,Serge Gnabry,4,"FW,MF",1.5,24,1.3,5,4,Bayern Munich,1,382,GER,1,0
+0.3,0,0,Javi Martínez,4,"DF,MF",0.0,30,0.3,6,0,Bayern Munich,0,333,ESP,0,0
+1.2,4,0,Corentin Tolisso,3,"DF,MF",0.6,24,1.2,5,2,Bayern Munich,0,298,FRA,0,0
+0.0,0,0,Jérôme Boateng,3,DF,0.0,30,0.0,4,0,Bayern Munich,0,283,GER,0,0
+0.3,2,0,Alphonso Davies,3,FW,0.2,18,0.3,3,0,Bayern Munich,0,270,CAN,0,0
+0.0,0,0,David Alaba,3,"DF,MF",1.1,27,0.0,3,0,Bayern Munich,0,225,AUT,0,0
+1.5,2,0,Thomas Müller,2,"FW,MF",1.1,29,1.5,5,2,Bayern Munich,0,259,GER,0,0
+1.0,3,0,Ivan Perišić,2,MF,2.0,30,1.0,6,1,Bayern Munich,0,207,CRO,0,0
+0.0,0,0,Niklas Süle,2,DF,0.0,23,0.0,2,0,Bayern Munich,0,180,GER,0,0
+0.5,0,0,Leon Goretzka,2,MF,0.4,24,0.5,3,1,Bayern Munich,0,175,GER,0,0
+0.0,0,0,Lucas Hernández,2,DF,0.0,23,0.0,2,0,Bayern Munich,0,149,FRA,0,0
+0.0,0,0,Joshua Zirkzee,0,FW,0.0,18,0.0,1,0,Bayern Munich,0,4,NED,0,0
+,,,Mickaël Cuisance,0,MF,,19,,0,,Bayern Munich,,,FRA,,
+,,,Lars Lukas Mai,0,DF,,19,,0,,Bayern Munich,,,GER,,
+,,,Sarpreet Singh,0,MF,,20,,0,,Bayern Munich,,,NZL,,
+,,,Sven Ulreich,0,GK,,30,,0,,Bayern Munich,,,GER,,
+3.1,0,2,Harry Kane,5,FW,0.7,26,4.6,5,6,Tottenham,1,450,ENG,1,2
+1.0,1,0,Dele Alli,5,MF,1.2,23,1.0,5,1,Tottenham,0,368,ENG,0,0
+0.2,1,0,Moussa Sissoko,4,MF,0.2,29,0.2,6,0,Tottenham,0,417,FRA,0,0
+3.5,2,0,Son Heung-min,4,"FW,MF",0.9,27,3.5,6,5,Tottenham,0,365,KOR,0,0
+0.0,0,0,Toby Alderweireld,4,DF,0.1,30,0.0,4,0,Tottenham,1,360,BEL,1,0
+0.0,0,0,Paulo Gazzaniga,4,GK,0.0,27,0.0,4,0,Tottenham,0,360,ARG,0,0
+0.0,1,0,Danny Rose,4,"DF,MF",0.7,29,0.0,4,0,Tottenham,0,360,ENG,0,0
+0.3,0,0,Davinson Sánchez,4,DF,0.1,23,0.3,4,0,Tottenham,0,360,COL,0,0
+0.4,2,0,Tanguy Ndombele,4,MF,0.9,22,0.4,5,0,Tottenham,1,313,FRA,1,0
+0.1,2,0,Serge Aurier,3,DF,1.5,26,0.1,3,1,Tottenham,0,270,CIV,0,0
+0.0,0,0,Harry Winks,3,MF,0.1,23,0.0,3,0,Tottenham,1,261,ENG,1,0
+0.0,0,0,Jan Vertonghen,3,DF,0.0,32,0.0,3,0,Tottenham,0,253,BEL,0,0
+0.4,0,0,Eric Dier,3,"DF,MF",0.0,25,0.4,4,0,Tottenham,1,222,ENG,1,0
+0.2,1,0,Lucas Moura,3,"FW,MF",0.4,26,0.2,4,1,Tottenham,0,221,BRA,0,0
+0.7,1,0,Christian Eriksen,2,"DF,MF",1.6,27,0.7,5,1,Tottenham,0,295,DEN,0,0
+0.0,0,0,Juan Foyth,2,DF,0.0,21,0.0,3,0,Tottenham,0,197,ARG,0,0
+0.0,1,0,Ben Davies,2,DF,0.3,26,0.0,2,0,Tottenham,0,180,WAL,0,0
+0.0,0,0,Hugo Lloris,2,GK,0.0,32,0.0,2,0,Tottenham,0,180,FRA,0,0
+0.5,0,0,Giovani Lo Celso,2,MF,0.4,23,0.5,3,1,Tottenham,1,162,ARG,1,0
+1.5,2,0,Érik Lamela,1,"FW,MF",0.2,27,1.5,3,1,Tottenham,0,113,ARG,0,0
+0.3,1,0,Ryan Sessegnon,1,DF,0.4,19,0.3,2,1,Tottenham,0,105,ENG,0,0
+0.0,0,0,Kyle Walker-Peters,1,DF,0.0,22,0.0,1,0,Tottenham,0,90,ENG,0,0
+0.0,0,0,Oliver Skipp,0,MF,0.0,18,0.0,2,0,Tottenham,1,29,ENG,1,0
+0.0,0,0,Victor Wanyama,0,MF,0.0,28,0.0,1,0,Tottenham,0,9,KEN,0,0
+,,,Brandon Austin,0,GK,,20,,0,,Tottenham,,,ENG,,
+,,,Troy Parrott,0,FW,,17,,0,,Tottenham,,,IRL,,
+,,,Japhet Tanganga,0,DF,,20,,0,,Tottenham,,,ENG,,
+,,,Michel Vorm,0,GK,,35,,0,,Tottenham,,,NED,,
+,,,Alfie Whiteman,0,GK,,20,,0,,Tottenham,,,ENG,,
+0.4,0,0,Yassine Meriah,6,MF,0.0,26,0.4,6,0,Olympiacos,0,540,TUN,0,0
+0.0,0,0,José Sá,6,GK,0.0,26,0.0,6,0,Olympiacos,0,540,POR,0,0
+1.1,0,0,Rúben Semedo,6,"DF,MF",0.0,25,1.1,6,2,Olympiacos,2,540,POR,2,0
+0.0,1,0,Kostas Tsimikas,6,DF,1.2,23,0.0,6,0,Olympiacos,1,540,GRE,1,0
+0.4,0,0,Andreas Bouchalakis,6,MF,0.2,26,0.4,6,0,Olympiacos,1,484,GRE,1,0
+0.1,0,0,Omar Elabdellaoui,5,"DF,MF",0.3,27,0.1,6,0,Olympiacos,0,461,NOR,0,0
+1.4,0,0,Daniel Podence,5,MF,0.7,23,1.4,6,1,Olympiacos,2,458,POR,2,0
+0.6,1,0,Guilherme,5,MF,1.0,28,0.6,5,1,Olympiacos,2,450,BRA,2,0
+0.8,1,0,Giorgos Masouras,5,MF,0.4,25,0.8,6,0,Olympiacos,0,426,GRE,0,0
+0.2,0,0,Mohamed Camara,5,DF,0.2,22,0.2,5,0,Olympiacos,1,418,GUI,1,0
+0.4,0,0,Miguel Ángel Guerrero,3,FW,0.5,29,0.4,6,0,Olympiacos,1,314,ESP,1,0
+0.6,0,1,Youssef El-Arabi,3,FW,0.0,32,1.3,6,3,Olympiacos,1,277,MAR,1,1
+0.0,1,1,Mathieu Valbuena,1,MF,0.3,34,0.8,3,1,Olympiacos,0,104,FRA,0,1
+0.1,1,0,Maximiliano Lovera,1,FW,0.0,20,0.1,3,0,Olympiacos,0,101,ARG,0,0
+0.0,0,0,Vasilis Torosidis,1,"DF,MF",0.0,34,0.0,1,0,Olympiacos,1,90,GRE,1,0
+0.0,0,0,Lazar Ranđelović,1,MF,0.0,21,0.0,4,0,Olympiacos,0,86,SRB,0,0
+0.1,0,0,Yassine Benzia,1,FW,0.0,24,0.1,3,0,Olympiacos,2,77,ALG,2,0
+,,,Bobby Allain,0,GK,,27,,0,,Olympiacos,,,FRA,,
+,,,Bruno Gaspar,0,DF,,26,,0,,Olympiacos,,,ANG,,
+,,,Avraam Papadopoulos,0,"DF,MF",,34,,0,,Olympiacos,,,GRE,,
+,,,Giorgos Xenitidis,0,MF,,19,,0,,Olympiacos,,,GRE,,
+0.0,0,0,Milan Borjan,6,GK,0.0,31,0.0,6,0,FK Crvena Zvezda,1,540,CAN,1,0
+0.1,0,0,Miloš Degenek,6,DF,0.0,25,0.1,6,0,FK Crvena Zvezda,2,540,AUS,2,0
+0.7,2,0,Marko Marin,6,"FW,MF",0.9,30,0.7,6,0,FK Crvena Zvezda,1,540,GER,1,0
+0.3,0,0,Nemanja Milunović,6,DF,0.0,30,0.3,6,1,FK Crvena Zvezda,2,540,SRB,2,0
+0.1,0,0,Marko Gobeljić,6,MF,0.3,26,0.1,6,0,FK Crvena Zvezda,0,495,SRB,0,0
+0.3,0,0,Mateo García,6,MF,0.2,22,0.3,6,0,FK Crvena Zvezda,0,490,ARG,0,0
+0.0,0,0,Milan Rodić,5,DF,0.1,28,0.0,5,0,FK Crvena Zvezda,2,442,SRB,2,0
+0.3,0,0,Rajiv van La Parra,4,"FW,MF",0.1,28,0.3,5,0,FK Crvena Zvezda,1,355,NED,1,0
+0.0,0,0,José Cañas,4,MF,0.0,32,0.0,5,0,FK Crvena Zvezda,0,314,ESP,0,0
+0.0,0,0,Njegoš Petrović,3,MF,0.0,20,0.0,5,0,FK Crvena Zvezda,2,301,SRB,2,0
+0.1,0,1,Tomané,3,FW,0.1,26,0.8,3,0,FK Crvena Zvezda,0,210,POR,0,0
+0.1,0,0,Dušan Jovančić,3,MF,0.1,28,0.1,3,0,FK Crvena Zvezda,0,179,SRB,0,0
+0.4,0,0,Milan Pavkov,2,FW,0.0,25,0.4,3,0,FK Crvena Zvezda,0,188,SRB,0,0
+0.2,0,0,Aleksa Vukanović,2,FW,0.0,27,0.2,4,0,FK Crvena Zvezda,0,170,SRB,0,0
+0.4,0,0,Richmond Boakye,1,FW,0.1,26,0.4,5,1,FK Crvena Zvezda,1,186,GHA,1,0
+0.2,0,0,Miloš Vulić,1,MF,0.1,22,0.2,4,1,FK Crvena Zvezda,1,182,SRB,1,0
+0.1,0,0,Jander Ribeiro Santana,1,MF,0.0,31,0.1,3,0,FK Crvena Zvezda,1,143,BRA,1,0
+0.1,0,0,Mirko Ivanić,1,MF,0.0,25,0.1,2,0,FK Crvena Zvezda,0,104,MNE,0,0
+0.0,0,0,Radovan Pankov,0,DF,0.0,23,0.0,1,0,FK Crvena Zvezda,0,21,SRB,0,0
+,,,Srđan Babić,0,DF,,23,,0,,FK Crvena Zvezda,,,SRB,,
+,,,Zoran Popović,0,GK,,31,,0,,FK Crvena Zvezda,,,SRB,,
+,,,Veljko Simić,0,MF,,24,,0,,FK Crvena Zvezda,,,SRB,,
+1.9,2,0,İlkay Gündoğan,6,MF,0.6,28,1.9,6,2,Manchester City,0,540,GER,0,0
+0.3,0,0,Nicolás Otamendi,5,DF,0.0,31,0.3,6,0,Manchester City,1,465,ARG,1,0
+0.1,0,0,Fernandinho,5,MF,0.0,34,0.1,5,0,Manchester City,3,450,BRA,3,0
+1.8,4,0,Riyad Mahrez,5,"FW,MF",2.3,28,1.8,5,1,Manchester City,0,448,ALG,0,0
+0.0,0,0,Ederson,5,GK,0.0,25,0.0,5,0,Manchester City,0,405,BRA,0,0
+0.3,0,0,Rodri,5,MF,0.0,23,0.3,5,0,Manchester City,1,363,ESP,1,0
+3.7,2,0,Raheem Sterling,4,"FW,MF",2.1,24,3.7,6,5,Manchester City,0,411,ENG,0,0
+0.1,0,0,João Cancelo,4,DF,0.2,25,0.1,6,0,Manchester City,1,388,POR,1,0
+0.0,1,0,Benjamin Mendy,4,DF,1.0,25,0.0,5,0,Manchester City,2,348,FRA,2,0
+0.2,1,0,Bernardo Silva,4,"FW,MF",0.5,24,0.2,5,0,Manchester City,1,339,POR,1,0
+2.1,2,1,Gabriel Jesus,4,FW,1.6,22,2.9,5,4,Manchester City,0,320,BRA,0,0
+0.4,1,0,Kevin De Bruyne,4,MF,1.2,28,0.4,4,0,Manchester City,1,304,BEL,1,0
+1.9,0,1,Sergio Agüero,2,FW,0.0,31,2.7,3,2,Manchester City,0,196,ARG,0,1
+0.8,2,0,Phil Foden,2,MF,1.7,19,0.8,4,2,Manchester City,2,185,ENG,2,0
+0.0,0,0,Kyle Walker,2,DF,0.0,29,0.0,3,0,Manchester City,0,173,ENG,0,0
+0.0,0,0,Claudio Bravo,1,GK,0.0,36,0.0,2,0,Manchester City,0,125,CHI,0,0
+0.0,0,0,Oleksandr Zinchenko,1,MF,0.0,22,0.0,2,0,Manchester City,0,114,UKR,0,0
+0.5,0,0,David Silva,1,MF,0.2,33,0.5,2,0,Manchester City,0,110,ESP,0,0
+0.0,0,0,Angeliño,1,DF,0.2,22,0.0,1,0,Manchester City,0,90,ESP,0,0
+0.0,0,0,Eric García,1,DF,0.0,18,0.0,1,0,Manchester City,0,90,ESP,0,0
+0.2,0,0,John Stones,0,DF,0.0,25,0.2,1,0,Manchester City,0,49,ENG,0,0
+0.0,0,0,Taylor Harwood-Bellis,0,DF,0.0,17,0.0,1,0,Manchester City,0,8,ENG,0,0
+,,,Scott Carson,0,GK,,33,,0,,Manchester City,,,ENG,,
+,,,Thomas Doyle,0,MF,,17,,0,,Manchester City,,,ENG,,
+0.0,0,0,Pierluigi Gollini,6,GK,0.0,24,0.0,6,0,Atalanta,0,540,ITA,0,0
+0.1,1,0,Marten de Roon,6,MF,0.8,28,0.1,6,0,Atalanta,2,540,NED,2,0
+1.6,1,0,Papu Gómez,6,"FW,MF",1.8,31,1.6,6,1,Atalanta,0,495,ARG,0,0
+0.2,0,0,Rafael Tolói,5,DF,0.1,28,0.2,5,0,Atalanta,3,450,BRA,3,0
+0.3,0,0,Remo Freuler,5,MF,0.1,27,0.3,5,0,Atalanta,1,399,SUI,1,0
+2.3,0,0,Mario Pašalić,4,MF,0.3,24,2.3,6,2,Atalanta,1,450,CRO,1,0
+0.8,0,0,Robin Gosens,4,"DF,MF",0.3,25,0.8,5,1,Atalanta,1,393,GER,1,0
+1.2,0,0,Timothy Castagne,4,DF,0.6,23,1.2,5,1,Atalanta,1,385,BEL,1,0
+0.3,0,0,Berat Djimsiti,4,"DF,MF",0.0,26,0.3,4,0,Atalanta,2,360,ALB,2,0
+0.1,0,0,José Luis Palomino,4,DF,0.0,29,0.1,4,0,Atalanta,0,360,ARG,0,0
+0.2,0,1,Josip Iličić,4,MF,0.9,31,1.0,5,0,Atalanta,2,336,SVN,2,0
+0.7,1,0,Hans Hateboer,4,DF,0.5,25,0.7,6,0,Atalanta,1,320,NED,1,0
+0.0,0,0,Andrea Masiello,4,DF,0.0,33,0.0,4,0,Atalanta,1,219,ITA,1,0
+0.7,0,1,Luis Muriel,2,FW,0.6,28,1.5,5,1,Atalanta,1,199,COL,1,1
+1.6,0,0,Duván Zapata,2,FW,0.2,28,1.6,2,1,Atalanta,0,180,COL,0,0
+0.2,1,1,Ruslan Malinovskyi,1,MF,1.2,26,0.9,6,1,Atalanta,1,203,UKR,1,1
+0.0,0,0,Simon Kjær,1,DF,0.0,30,0.0,1,0,Atalanta,0,90,DEN,0,0
+0.0,0,0,Roger Ibanez,0,MF,0.0,20,0.0,1,0,Atalanta,0,19,BRA,0,0
+0.0,0,0,Musa Barrow,0,FW,0.0,20,0.0,1,0,Atalanta,0,2,GAM,0,0
+,,,Guilherme Arana,0,DF,,22,,0,,Atalanta,,,BRA,,
+,,,Marco Sportiello,0,GK,,27,,0,,Atalanta,,,ITA,,
+,,,Amad Traoré,0,FW,,17,,0,,Atalanta,,,CIV,,
+0.2,0,0,Ismaily,6,DF,0.5,29,0.2,6,0,Shakhtar Donetsk,0,540,BRA,0,0
+0.0,0,0,Serhiy Kryvtsov,6,DF,0.3,28,0.0,6,0,Shakhtar Donetsk,1,540,UKR,1,0
+0.0,0,0,Andriy Pyatov,6,GK,0.0,35,0.0,6,0,Shakhtar Donetsk,1,540,UKR,1,0
+0.2,0,0,Taras Stepanenko,6,MF,0.0,29,0.2,6,0,Shakhtar Donetsk,1,540,UKR,1,0
+0.3,0,0,Mykola Matviyenko,6,DF,0.2,23,0.3,6,0,Shakhtar Donetsk,0,536,UKR,0,0
+2.4,1,0,Júnior Moraes,6,FW,0.6,32,2.4,6,2,Shakhtar Donetsk,1,527,UKR,1,0
+0.6,2,0,Alan Patrick,6,MF,1.2,28,0.6,6,1,Shakhtar Donetsk,2,497,BRA,2,0
+0.3,0,0,Taison,5,"FW,MF",0.8,31,0.3,5,0,Shakhtar Donetsk,0,450,BRA,0,0
+0.1,1,0,Marlos,4,MF,0.3,31,0.1,5,0,Shakhtar Donetsk,2,369,UKR,2,0
+0.2,1,0,Viktor Kovalenko,4,MF,0.4,23,0.2,5,0,Shakhtar Donetsk,0,338,UKR,0,0
+0.4,1,0,Dodô,3,DF,0.7,20,0.4,5,1,Shakhtar Donetsk,1,280,BRA,1,0
+0.0,0,0,Serhiy Bolbat,3,MF,0.0,26,0.0,3,0,Shakhtar Donetsk,2,246,UKR,2,0
+0.3,0,0,Yevhen Konoplyanka,2,"FW,MF",0.0,29,0.3,4,1,Shakhtar Donetsk,0,180,UKR,0,0
+0.2,0,1,Tetê,2,MF,0.5,19,1.0,3,1,Shakhtar Donetsk,0,155,BRA,0,1
+0.8,0,0,Manor Solomon,1,FW,0.0,20,0.8,5,2,Shakhtar Donetsk,0,134,ISR,0,0
+0.0,0,0,Marcos Antônio,0,MF,0.0,19,0.0,3,0,Shakhtar Donetsk,0,25,BRA,0,0
+0.0,0,0,Dentinho,0,FW,0.0,30,0.0,2,0,Shakhtar Donetsk,0,17,BRA,0,0
+0.0,0,0,Danylo Sikan,0,FW,0.0,18,0.0,1,0,Shakhtar Donetsk,0,,UKR,0,0
+,,,Valerii Bondar,0,DF,,20,,0,,Shakhtar Donetsk,,,UKR,,
+,,,Bohdan Butko,0,DF,,28,,0,,Shakhtar Donetsk,,,UKR,,
+,,,Marquinhos Cipriano,0,FW,,20,,0,,Shakhtar Donetsk,,,BRA,,
+,,,Davit Khocholava,0,DF,,26,,0,,Shakhtar Donetsk,,,GEO,,
+,,,Oleksiy Shevchenko,0,GK,,27,,0,,Shakhtar Donetsk,,,UKR,,
+0.1,0,0,Emir Dilaver,6,"DF,MF",0.0,28,0.1,6,0,Dinamo Zagreb,2,540,AUT,2,0
+0.0,0,0,Dominik Livaković,6,GK,0.0,24,0.0,6,0,Dinamo Zagreb,0,540,CRO,0,0
+1.0,1,0,Dani Olmo,6,FW,0.9,21,1.0,6,2,Dinamo Zagreb,0,540,ESP,0,0
+0.6,1,0,Arijan Ademi,6,MF,1.1,28,0.6,6,1,Dinamo Zagreb,3,518,MKD,3,0
+0.1,1,0,Petar Stojanović,6,"DF,MF",0.5,23,0.1,6,0,Dinamo Zagreb,2,507,SVN,2,0
+1.9,1,1,Mislav Oršić,6,MF,0.8,26,2.6,6,4,Dinamo Zagreb,0,476,CRO,0,1
+0.6,1,0,Bruno Petković,5,FW,0.5,24,0.6,6,1,Dinamo Zagreb,0,465,CRO,0,0
+0.8,1,0,Marin Leovac,5,DF,0.4,30,0.8,5,1,Dinamo Zagreb,0,450,CRO,0,0
+0.0,0,0,Dino Perić,5,DF,0.0,25,0.0,5,0,Dinamo Zagreb,3,450,CRO,3,0
+0.0,2,0,Kévin Théophile-Catherine,5,DF,0.6,29,0.0,5,0,Dinamo Zagreb,3,436,FRA,3,0
+0.1,0,0,Nikola Moro,5,MF,0.0,21,0.1,5,0,Dinamo Zagreb,3,416,CRO,3,0
+0.0,0,0,Amer Gojak,1,MF,0.0,22,0.0,5,0,Dinamo Zagreb,0,171,BIH,0,0
+0.3,0,0,Luka Ivanušec,1,MF,0.0,20,0.3,4,1,Dinamo Zagreb,0,99,CRO,0,0
+0.0,0,0,François Moubandje,1,DF,0.0,29,0.0,1,0,Dinamo Zagreb,0,90,SUI,0,0
+0.3,0,0,Mario Gavranović,1,FW,0.1,29,0.3,3,0,Dinamo Zagreb,0,83,SUI,0,0
+0.0,1,0,Damian Kądzior,1,MF,0.1,27,0.0,2,0,Dinamo Zagreb,0,59,POL,0,0
+0.0,0,0,Marko Gjira,0,DF,0.0,20,0.0,3,0,Dinamo Zagreb,0,59,CRO,0,0
+0.0,0,0,Izet Hajrović,0,MF,0.0,27,0.0,1,0,Dinamo Zagreb,0,9,BIH,0,0
+0.0,0,0,Lovro Majer,0,MF,0.0,21,0.0,1,0,Dinamo Zagreb,0,9,CRO,0,0
+0.0,0,0,Iyayi Atiemwen,0,MF,0.0,23,0.0,1,0,Dinamo Zagreb,0,6,NGA,0,0
+0.0,0,0,Mario Šitum,0,"FW,MF",0.0,27,0.0,1,0,Dinamo Zagreb,0,,CRO,0,0
+,,,Ivo Pinto,0,DF,,29,,0,,Dinamo Zagreb,,,POR,,
+,,,Danijel Zagorac,0,GK,,32,,0,,Dinamo Zagreb,,,CRO,,
+0.2,0,0,Clément Lenglet,6,DF,0.0,24,0.2,6,0,Barcelona,1,540,FRA,1,0
+0.1,0,0,Frenkie de Jong,5,MF,0.1,22,0.1,6,0,Barcelona,0,477,NED,0,0
+0.0,0,0,Marc-André ter Stegen,5,GK,0.0,27,0.0,5,0,Barcelona,0,450,GER,0,0
+1.1,0,0,Antoine Griezmann,5,"FW,MF",0.2,28,1.1,6,1,Barcelona,1,441,FRA,1,0
+0.0,0,0,Sergio Busquets,5,MF,0.0,31,0.0,5,0,Barcelona,2,349,ESP,2,0
+3.3,3,0,Lionel Messi,4,"FW,MF",2.6,32,3.3,5,2,Barcelona,1,391,ARG,1,0
+2.5,2,0,Luis Suárez,4,FW,1.1,32,2.5,5,3,Barcelona,0,388,URU,0,0
+0.3,0,0,Gerard Piqué,4,DF,0.3,32,0.3,4,0,Barcelona,3,360,ESP,3,0
+0.4,0,0,Nélson Semedo,4,"DF,MF",0.5,25,0.4,4,0,Barcelona,2,360,POR,2,0
+0.1,1,0,Arthur Melo,3,MF,0.7,22,0.1,3,0,Barcelona,0,264,BRA,0,0
+0.0,0,0,Jordi Alba,3,DF,0.6,30,0.0,3,0,Barcelona,1,175,ESP,1,0
+0.5,0,0,Sergi Roberto,2,MF,0.2,27,0.5,4,0,Barcelona,1,275,ESP,1,0
+0.2,1,0,Arturo Vidal,2,MF,0.4,32,0.2,5,0,Barcelona,1,241,CHI,1,0
+0.5,0,0,Ivan Rakitić,2,MF,0.0,31,0.5,5,0,Barcelona,1,199,CRO,1,0
+0.0,0,0,Junior Firpo,2,DF,0.0,22,0.0,2,0,Barcelona,1,180,ESP,1,0
+0.0,0,0,Samuel Umtiti,2,DF,0.1,25,0.0,2,0,Barcelona,0,180,FRA,0,0
+0.2,0,0,Ousmane Dembélé,2,FW,0.9,22,0.2,4,0,Barcelona,1,136,FRA,1,0
+0.0,0,0,Carles Aleñá,1,MF,0.2,21,0.0,1,0,Barcelona,0,90,ESP,0,0
+0.0,0,0,Neto,1,GK,0.0,30,0.0,1,0,Barcelona,0,90,BRA,0,0
+0.0,0,0,Jean-Clair Todibo,1,MF,0.0,19,0.0,1,0,Barcelona,0,90,FRA,0,0
+0.1,0,0,Moussa Wagué,1,DF,0.0,20,0.1,2,0,Barcelona,0,90,SEN,0,0
+0.1,0,0,Ansu Fati,1,FW,0.6,16,0.1,3,1,Barcelona,0,89,ESP,0,0
+0.4,0,0,Carles Pérez,1,,0.0,21,0.4,1,1,Barcelona,0,85,ESP,0,0
+,,,Ronald Araújo,0,DF,,20,,0,,Barcelona,,,URU,,
+,,,Dani Morer,0,,,21,,0,,Barcelona,,,ESP,,
+0.0,0,0,Roman Bürki,6,GK,0.0,28,0.0,6,0,Borussia Dortmund,0,540,SUI,0,0
+0.1,0,0,Mats Hummels,6,DF,0.1,30,0.1,6,0,Borussia Dortmund,1,540,GER,1,0
+1.6,0,0,Achraf Hakimi,6,DF,0.6,20,1.6,6,4,Borussia Dortmund,0,533,MAR,0,0
+0.1,0,0,Manuel Akanji,6,MF,0.0,24,0.1,6,0,Borussia Dortmund,0,524,SUI,0,0
+2.0,2,0,Jadon Sancho,5,MF,1.1,19,2.0,6,2,Borussia Dortmund,0,468,ENG,0,0
+0.8,3,0,Julian Brandt,5,MF,1.9,23,0.8,6,2,Borussia Dortmund,1,467,GER,1,0
+0.2,0,0,Axel Witsel,5,MF,0.1,30,0.2,5,0,Borussia Dortmund,0,450,BEL,0,0
+0.1,0,0,Raphaël Guerreiro,4,"DF,MF",0.1,25,0.1,6,0,Borussia Dortmund,1,368,POR,1,0
+2.0,1,1,Marco Reus,4,"FW,MF",0.8,30,2.7,4,0,Borussia Dortmund,0,360,GER,0,0
+0.7,0,0,Thorgan Hazard,4,MF,1.6,26,0.7,5,0,Borussia Dortmund,2,344,BEL,2,0
+0.0,0,0,Julian Weigl,4,MF,0.0,23,0.0,4,0,Borussia Dortmund,3,341,GER,3,0
+0.0,0,0,Thomas Delaney,3,MF,0.1,27,0.0,3,0,Borussia Dortmund,1,245,DEN,1,0
+0.7,0,0,Nico Schulz,3,"DF,MF",0.0,26,0.7,3,0,Borussia Dortmund,0,225,GER,0,0
+0.0,0,0,Łukasz Piszczek,2,"DF,MF",0.1,34,0.0,4,0,Borussia Dortmund,1,181,POL,1,0
+0.6,1,0,Paco Alcácer,1,FW,0.5,25,0.6,2,0,Borussia Dortmund,0,113,ESP,0,0
+0.0,0,0,Dan-Axel Zagadou,1,DF,0.0,20,0.0,3,0,Borussia Dortmund,1,104,FRA,1,0
+0.3,1,0,Mario Götze,1,MF,0.5,27,0.3,3,0,Borussia Dortmund,0,69,GER,0,0
+0.0,0,0,Mahmoud Dahoud,0,MF,0.0,23,0.0,2,0,Borussia Dortmund,0,28,GER,0,0
+0.0,0,0,Jacob Bruun Larsen,0,MF,0.0,20,0.0,2,0,Borussia Dortmund,0,19,DEN,0,0
+0.0,0,0,Leonardo Balerdi,0,DF,0.0,20,0.0,1,0,Borussia Dortmund,0,7,ARG,0,0
+,,,Marwin Hitz,0,GK,,31,,0,,Borussia Dortmund,,,SUI,,
+,,,Jonas Hupe,0,GK,,19,,0,,Borussia Dortmund,,,GER,,
+,,,Eric Oelschlägel,0,GK,,23,,0,,Borussia Dortmund,,,GER,,
+,,,Marcel Schmelzer,0,DF,,31,,0,,Borussia Dortmund,,,GER,,
+0.0,0,0,Samir Handanović,6,GK,0.0,35,0.0,6,0,Inter,0,540,SVN,0,0
+0.0,0,0,Milan Škriniar,6,"DF,MF",0.1,24,0.0,6,0,Inter,1,540,SVK,1,0
+0.3,1,0,Stefan de Vrij,6,DF,0.3,27,0.3,6,0,Inter,1,540,NED,1,0
+2.7,1,1,Lautaro Martínez,6,FW,1.4,21,3.4,6,5,Inter,2,522,ARG,2,0
+0.3,1,0,Marcelo Brozović,6,MF,0.5,26,0.3,6,0,Inter,1,521,CRO,1,0
+0.1,0,0,Diego Godín,5,DF,0.0,33,0.1,5,0,Inter,2,450,URU,2,0
+2.4,2,0,Romelu Lukaku,5,FW,0.9,26,2.4,5,2,Inter,0,405,BEL,0,0
+0.5,1,0,Antonio Candreva,5,MF,1.1,32,0.5,5,1,Inter,2,390,ITA,2,0
+0.3,0,0,Nicolò Barella,3,MF,0.1,22,0.3,4,1,Inter,2,289,ITA,2,0
+0.0,0,0,Kwadwo Asamoah,3,MF,0.1,30,0.0,3,0,Inter,1,260,GHA,1,0
+0.3,0,0,Matías Vecino,3,"FW,MF",0.6,27,0.3,3,1,Inter,1,238,URU,1,0
+0.1,0,0,Cristiano Biraghi,3,DF,0.0,26,0.1,4,0,Inter,1,221,ITA,1,0
+0.0,0,0,Roberto Gagliardini,2,MF,0.0,25,0.0,4,0,Inter,0,218,ITA,0,0
+0.3,1,0,Stefano Sensi,2,MF,1.0,23,0.3,3,0,Inter,0,191,ITA,0,0
+0.6,0,0,Danilo D'Ambrosio,2,DF,0.0,30,0.6,3,0,Inter,0,184,ITA,0,0
+0.1,0,0,Borja Valero,2,MF,0.6,34,0.1,3,0,Inter,1,153,ESP,1,0
+0.3,1,0,Alexis Sánchez,1,"FW,MF",0.4,30,0.3,1,0,Inter,1,66,CHI,1,0
+0.0,1,0,Valentino Lazaro,0,MF,0.0,23,0.0,4,0,Inter,0,100,AUT,0,0
+0.2,0,0,Matteo Politano,0,FW,0.2,25,0.2,4,0,Inter,1,61,ITA,1,0
+0.0,0,0,Sebastiano Esposito,0,FW,0.1,17,0.0,3,0,Inter,0,51,ITA,0,0
+,,,Alessandro Bastoni,0,DF,,20,,0,,Inter,,,ITA,,
+,,,Federico Dimarco,0,DF,,21,,0,,Inter,,,ITA,,
+,,,Daniele Padelli,0,GK,,33,,0,,Inter,,,ITA,,
+0.4,0,0,Jan Bořil,6,DF,0.4,28,0.4,6,1,Slavia Prague,2,540,CZE,2,0
+0.0,0,0,Vladimír Coufal,6,DF,0.2,26,0.0,6,0,Slavia Prague,1,540,CZE,1,0
+0.0,0,0,Ondřej Kolář,6,GK,0.0,24,0.0,6,0,Slavia Prague,1,540,CZE,1,0
+0.5,0,0,Ondřej Kúdela,6,"DF,MF",0.0,32,0.5,6,0,Slavia Prague,2,540,CZE,2,0
+1.0,0,1,Tomáš Souček,6,MF,0.2,24,1.8,6,2,Slavia Prague,1,540,CZE,1,1
+0.7,0,0,Peter Olayinka,6,FW,0.4,23,0.7,6,1,Slavia Prague,2,535,NGA,2,0
+1.2,1,0,Lukáš Masopust,6,MF,0.5,26,1.2,6,0,Slavia Prague,1,475,CZE,1,0
+1.1,0,0,Nicolae Stanciu,6,MF,1.3,26,1.1,6,0,Slavia Prague,1,461,ROU,1,0
+0.2,0,0,Petr Ševčík,5,MF,0.5,25,0.2,5,0,Slavia Prague,2,450,CZE,2,0
+0.1,0,0,David Hovorka,3,DF,0.0,25,0.1,3,0,Slavia Prague,2,270,CZE,2,0
+0.3,0,0,Josef Hušbauer,2,MF,0.2,29,0.3,5,0,Slavia Prague,1,207,CZE,1,0
+0.1,0,0,Michal Frydrych,2,DF,0.0,29,0.1,2,0,Slavia Prague,0,174,CZE,0,0
+0.0,0,0,Ibrahim Traoré,2,MF,0.0,30,0.0,4,0,Slavia Prague,0,167,CIV,0,0
+0.3,0,0,Stanislav Tecl,1,FW,0.1,28,0.3,3,0,Slavia Prague,0,137,CZE,0,0
+0.4,1,0,Jaroslav Zelený,1,DF,0.2,26,0.4,4,0,Slavia Prague,0,109,CZE,0,0
+0.2,0,0,Laco Takács,1,DF,0.0,23,0.2,2,0,Slavia Prague,0,89,CZE,0,0
+0.2,1,0,Milan Škoda,1,"FW,MF",0.4,33,0.2,2,0,Slavia Prague,0,72,CZE,0,0
+0.1,0,0,Mick van Buren,0,FW,0.2,26,0.1,2,0,Slavia Prague,0,45,NED,0,0
+0.2,0,0,Abdulla Yusuf Helal,0,FW,0.0,26,0.2,2,0,Slavia Prague,0,36,BHR,0,0
+0.0,0,0,Lukáš Provod,0,MF,0.0,22,0.0,2,0,Slavia Prague,0,13,CZE,0,0
+,,,Tomáš Holeš,0,DF,,26,,0,,Slavia Prague,,,CZE,,
+,,,Přemysl Kovář,0,GK,,33,,0,,Slavia Prague,,,CZE,,
+,,,Jakub Markovič,0,GK,,18,,0,,Slavia Prague,,,CZE,,
+0.4,0,0,Virgil van Dijk,6,DF,0.2,28,0.4,6,0,Liverpool,0,540,NED,0,0
+4.3,2,0,Mohamed Salah,6,"FW,MF",1.1,27,4.3,6,4,Liverpool,0,540,EGY,0,0
+2.2,2,0,Sadio Mané,5,"FW,MF",1.3,27,2.2,6,2,Liverpool,1,465,SEN,1,0
+0.6,0,0,Andrew Robertson,5,DF,0.2,25,0.6,6,1,Liverpool,2,439,SCO,2,0
+0.6,3,0,Roberto Firmino,5,"FW,MF",1.8,27,0.6,6,0,Liverpool,0,426,BRA,0,0
+0.1,1,0,Fabinho,5,DF,0.4,25,0.1,5,0,Liverpool,1,379,BRA,1,0
+0.2,1,0,Trent Alexander-Arnold,4,"DF,MF",1.0,20,0.2,5,0,Liverpool,0,372,ENG,0,0
+0.2,1,0,James Milner,4,MF,0.4,33,0.2,6,0,Liverpool,1,367,ENG,1,0
+0.0,0,0,Alisson,4,GK,0.0,26,0.0,4,0,Liverpool,0,360,BRA,0,0
+0.1,0,0,Jordan Henderson,4,MF,0.5,29,0.1,4,0,Liverpool,0,329,ENG,0,0
+0.7,0,0,Georginio Wijnaldum,3,MF,0.2,28,0.7,6,1,Liverpool,0,355,NED,0,0
+0.0,0,0,Joe Gomez,3,DF,0.0,22,0.0,5,0,Liverpool,1,301,ENG,1,0
+0.8,0,0,Naby Keïta,3,MF,0.6,24,0.8,4,1,Liverpool,0,251,GUI,0,0
+0.1,0,0,Dejan Lovren,3,DF,0.3,30,0.1,3,1,Liverpool,0,233,CRO,0,0
+0.5,0,0,Alex Oxlade-Chamberlain,2,MF,0.2,25,0.5,3,3,Liverpool,0,182,ENG,0,0
+0.0,0,0,Adrián,2,GK,0.0,32,0.0,2,0,Liverpool,0,180,ESP,0,0
+0.3,0,0,Divock Origi,1,"FW,MF",0.0,24,0.3,4,0,Liverpool,0,128,BEL,0,0
+0.0,0,0,Joël Matip,1,"DF,MF",0.0,27,0.0,1,0,Liverpool,0,90,CMR,0,0
+0.0,0,0,Xherdan Shaqiri,0,MF,0.0,27,0.0,1,0,Liverpool,0,3,SUI,0,0
+,,,Rhian Brewster,0,FW,,19,,0,,Liverpool,,,ENG,,
+,,,Curtis Jones,0,MF,,18,,0,,Liverpool,,,ENG,,
+,,,Caoimhin Kelleher,0,GK,,20,,0,,Liverpool,,,IRL,,
+,,,Adam Lallana,0,"FW,MF",,31,,0,,Liverpool,,,ENG,,
+0.2,2,0,Giovanni Di Lorenzo,6,DF,0.7,25,0.2,6,0,Napoli,0,540,ITA,0,0
+0.3,0,0,Kalidou Koulibaly,6,DF,0.0,28,0.3,6,0,Napoli,2,540,SEN,2,0
+0.0,0,0,Alex Meret,6,GK,0.0,22,0.0,6,0,Napoli,0,540,ITA,0,0
+0.5,0,0,Fabián Ruiz Peña,6,MF,0.7,23,0.5,6,0,Napoli,1,540,ESP,1,0
+1.0,1,1,Dries Mertens,5,"FW,MF",0.5,32,1.8,6,4,Napoli,0,442,BEL,0,1
+0.1,0,0,Allan,5,"DF,MF",0.0,28,0.1,5,0,Napoli,1,435,BRA,1,0
+0.9,1,1,José Callejón,5,"FW,MF",1.6,32,1.6,5,1,Napoli,0,429,ESP,0,1
+0.3,0,0,Hirving Lozano,5,FW,0.2,24,0.3,6,1,Napoli,1,394,MEX,1,0
+0.0,0,0,Mário Rui,5,"DF,MF",0.3,28,0.0,5,0,Napoli,1,348,POR,1,0
+0.2,0,0,Piotr Zieliński,4,MF,0.3,25,0.2,5,0,Napoli,1,361,POL,1,0
+0.2,0,0,Kostas Manolas,4,DF,0.0,28,0.2,4,0,Napoli,0,360,GRE,0,0
+1.2,1,0,Lorenzo Insigne,2,FW,0.5,28,1.2,3,1,Napoli,0,181,ITA,0,0
+0.1,0,0,Nikola Maksimović,2,DF,0.0,27,0.1,2,0,Napoli,0,180,SRB,0,0
+2.4,0,1,Arkadiusz Milik,2,FW,0.0,25,3.2,3,3,Napoli,1,167,POL,1,1
+0.0,0,0,Kévin Malcuit,1,"DF,FW",0.3,28,0.0,2,0,Napoli,1,147,MAR,1,0
+0.0,0,0,Sebastiano Luperto,1,DF,0.1,22,0.0,2,0,Napoli,0,135,ITA,0,0
+0.0,0,0,Elif Elmas,1,MF,0.0,19,0.0,4,0,Napoli,0,92,MKD,0,0
+0.6,0,0,Fernando Llorente,0,FW,0.1,34,0.6,6,1,Napoli,2,86,ESP,2,0
+0.0,0,0,Gianluca Gaetano,0,MF,0.0,19,0.0,1,0,Napoli,0,18,ITA,0,0
+0.0,0,0,Amin Younes,0,"FW,MF",0.0,25,0.0,1,0,Napoli,0,5,GER,0,0
+,,,Faouzi Ghoulam,0,DF,,28,,0,,Napoli,,,ALG,,
+,,,Elseid Hysaj,0,DF,,25,,0,,Napoli,,,ALB,,
+,,,David Ospina,0,GK,,30,,0,,Napoli,,,COL,,
+2.2,3,0,Hwang Hee-chan,6,FW,2.7,23,2.2,6,3,Salzburg,0,540,KOR,0,0
+0.4,0,0,Andreas Ulmer,6,DF,0.4,33,0.4,6,1,Salzburg,0,540,AUT,0,0
+0.2,0,0,Maximilian Wöber,6,DF,0.1,21,0.2,6,0,Salzburg,0,540,AUT,0,0
+0.0,0,0,Rasmus Nissen,6,DF,0.1,22,0.0,6,0,Salzburg,2,534,DEN,2,0
+1.4,3,0,Takumi Minamino,6,"FW,MF",2.2,24,1.4,6,2,Salzburg,0,510,JPN,0,0
+0.1,3,0,Zlatko Junuzović,6,"FW,MF",1.4,31,0.1,6,0,Salzburg,1,506,AUT,1,0
+0.8,0,0,Dominik Szoboszlai,5,MF,0.6,18,0.8,5,1,Salzburg,1,393,HUN,1,0
+0.2,3,0,Enoch Mwepu,4,MF,1.0,21,0.2,5,0,Salzburg,0,404,ZAM,0,0
+3.8,1,2,Erling Braut Håland,4,FW,0.4,19,5.3,6,8,Salzburg,1,374,NOR,1,2
+0.3,0,0,Jerome Onguene,4,DF,0.0,21,0.3,4,0,Salzburg,1,360,CMR,1,0
+0.0,0,0,Cican Stankovic,4,GK,0.0,26,0.0,4,0,Salzburg,0,303,AUT,0,0
+1.7,0,0,Patson Daka,3,FW,0.4,20,1.7,6,1,Salzburg,0,241,ZAM,0,0
+0.0,0,0,Carlos Coronel,2,GK,0.0,22,0.0,3,0,Salzburg,0,237,BRA,0,0
+0.1,0,0,André Ramalho,2,DF,0.0,27,0.1,2,0,Salzburg,0,180,BRA,0,0
+0.0,0,0,Antoine Bernede,1,MF,0.1,20,0.0,1,0,Salzburg,1,90,FRA,1,0
+0.0,0,0,Marin Pongračić,1,DF,0.0,21,0.0,1,0,Salzburg,1,45,CRO,1,0
+0.1,0,0,Masaya Okugawa,0,FW,0.0,23,0.1,4,0,Salzburg,0,72,JPN,0,0
+0.0,0,0,Majeed Ashimeru,0,MF,0.0,21,0.0,4,0,Salzburg,0,63,GHA,0,0
+0.0,0,0,Patrick Farkas,0,MF,0.1,26,0.0,1,0,Salzburg,0,6,AUT,0,0
+0.0,0,0,Sekou Koita,0,FW,0.0,19,0.0,1,0,Salzburg,0,1,MLI,0,0
+0.0,0,0,Albert Vallci,0,DF,0.0,24,0.0,1,0,Salzburg,0,1,AUT,0,0
+,,,Philipp Köhn,0,GK,,21,,0,,Salzburg,,,SUI,,
+,,,Smail Prevljak,0,FW,,24,,0,,Salzburg,,,BIH,,
+0.2,0,0,Sander Berge,6,MF,0.2,21,0.2,6,0,Genk,0,540,NOR,0,0
+0.2,0,0,Jhon Lucumí,6,DF,0.1,21,0.2,6,1,Genk,1,540,COL,1,0
+0.1,0,0,Joakim Mæhle,6,DF,0.2,22,0.1,6,0,Genk,0,540,DEN,0,0
+1.9,0,0,Mbwana Samatta,6,FW,0.0,26,1.9,6,3,Genk,2,513,TAN,2,0
+0.3,0,0,Junya Ito,6,FW,0.2,26,0.3,6,0,Genk,1,441,JPN,1,0
+0.0,0,0,Gaëtan Coucke,5,GK,0.0,20,0.0,5,0,Genk,0,450,BEL,0,0
+0.1,0,0,Patrik Hrošovský,5,MF,0.2,27,0.1,5,0,Genk,0,414,SVK,0,0
+0.0,0,0,Carlos Cuesta,4,DF,0.3,20,0.0,4,0,Genk,0,360,COL,0,0
+0.2,0,0,Sébastien Dewaest,4,DF,0.0,28,0.2,4,0,Genk,0,360,BEL,0,0
+0.1,0,0,Jere Uronen,3,DF,0.1,25,0.1,3,0,Genk,0,270,FIN,0,0
+0.3,1,0,Bryan Heynen,3,MF,0.5,22,0.3,4,0,Genk,0,265,BEL,0,0
+0.1,0,0,Casper de Norre,3,MF,0.6,22,0.1,3,0,Genk,2,257,BEL,2,0
+0.7,1,0,Theo Bongonda,2,FW,0.3,23,0.7,6,0,Genk,1,257,BEL,1,0
+1.6,0,0,Paul Onuachu,2,FW,0.6,25,1.6,5,0,Genk,0,212,NGA,0,0
+0.5,0,0,Joseph Paintsil,2,MF,0.8,21,0.5,3,0,Genk,1,156,GHA,1,0
+0.4,0,0,Ianis Hagi,1,MF,0.5,20,0.4,5,0,Genk,0,140,ROU,0,0
+0.1,2,0,Dieumerci Ndongala,1,"FW,MF",0.0,28,0.1,3,0,Genk,0,118,COD,0,0
+0.0,0,0,Maarten Vandevoordt,1,GK,0.0,17,0.0,1,0,Genk,1,90,BEL,1,0
+0.2,0,0,Stephen Odey,0,FW,0.0,21,0.2,1,1,Genk,1,9,NGA,1,0
+0.0,0,0,Neto Borges,0,DF,0.0,22,0.0,1,0,Genk,0,8,BRA,0,0
+,,,Jakub Piotrowski,0,MF,,21,,0,,Genk,,,POL,,
+,,,Dries Wouters,0,DF,,22,,0,,Genk,,,BEL,,
+0.3,0,0,Miralem Pjanić,6,MF,0.7,29,0.3,6,0,Juventus,0,537,BIH,0,0
+3.4,1,0,Cristiano Ronaldo,6,"FW,MF",0.2,34,3.4,6,2,Juventus,0,532,POR,0,0
+0.2,0,0,Leonardo Bonucci,5,DF,0.1,32,0.2,5,0,Juventus,1,450,ITA,1,0
+0.0,0,0,Wojciech Szczęsny,5,GK,0.0,29,0.0,5,0,Juventus,0,450,POL,0,0
+1.3,2,0,Gonzalo Higuaín,4,"FW,MF",0.9,31,1.3,6,2,Juventus,0,399,ARG,0,0
+0.1,1,0,Juan Cuadrado,4,"DF,MF",1.0,31,0.1,4,1,Juventus,3,360,COL,3,0
+0.0,0,0,Danilo,4,"DF,MF",0.0,28,0.0,4,0,Juventus,0,360,BRA,0,0
+0.2,0,0,Matthijs de Ligt,4,DF,0.0,19,0.2,4,0,Juventus,0,360,NED,0,0
+0.2,2,0,Alex Sandro,4,DF,0.7,28,0.2,4,0,Juventus,0,360,BRA,0,0
+0.7,0,0,Blaise Matuidi,4,MF,0.1,32,0.7,5,1,Juventus,2,340,FRA,2,0
+0.0,0,0,Sami Khedira,4,MF,0.4,32,0.0,5,0,Juventus,0,265,GER,0,0
+0.0,0,0,Rodrigo Bentancur,2,MF,0.3,22,0.0,5,0,Juventus,1,239,URU,1,0
+1.2,3,0,Paulo Dybala,2,"FW,MF",1.2,25,1.2,6,3,Juventus,0,206,ARG,0,0
+0.0,0,0,Adrien Rabiot,2,MF,0.4,24,0.0,3,0,Juventus,0,200,FRA,0,0
+0.4,0,0,Federico Bernardeschi,2,FW,0.2,25,0.4,4,1,Juventus,0,180,ITA,0,0
+0.0,0,0,Mattia De Sciglio,2,DF,0.0,26,0.0,2,0,Juventus,0,180,ITA,0,0
+0.0,0,0,Daniele Rugani,2,DF,0.0,25,0.0,2,0,Juventus,0,180,ITA,0,0
+0.9,0,0,Aaron Ramsey,2,MF,0.1,28,0.9,4,1,Juventus,0,142,WAL,0,0
+0.0,0,0,Gianluigi Buffon,1,GK,0.0,41,0.0,1,0,Juventus,0,90,ITA,0,0
+0.0,0,0,Merih Demiral,1,DF,0.0,21,0.0,1,0,Juventus,0,90,TUR,0,0
+0.5,0,0,Douglas Costa,0,"FW,MF",0.0,28,0.5,1,1,Juventus,1,20,BRA,1,0
+0.0,0,0,Simone Muratore,0,MF,0.0,21,0.0,1,0,Juventus,0,,ITA,0,0
+,,,Manolo Portanova,0,MF,,19,,0,,Juventus,,,ITA,,
+0.5,0,0,Saúl Ñíguez,6,MF,0.3,24,0.5,6,0,Atletico Madrid,1,540,ESP,1,0
+0.0,0,0,Jan Oblak,6,GK,0.0,26,0.0,6,0,Atletico Madrid,1,540,SVN,1,0
+1.2,1,0,Thomas Partey,6,MF,1.0,26,1.2,6,1,Atletico Madrid,1,526,GHA,1,0
+0.0,1,0,Koke,6,MF,1.2,27,0.0,6,0,Atletico Madrid,1,500,ESP,1,0
+0.2,1,0,Renan Lodi,6,DF,0.3,21,0.2,6,0,Atletico Madrid,1,462,BRA,1,0
+0.2,0,0,Felipe,5,DF,0.0,30,0.2,5,1,Atletico Madrid,1,450,BRA,1,0
+1.6,0,0,Álvaro Morata,4,FW,0.1,26,1.6,5,2,Atletico Madrid,1,380,ESP,1,0
+0.0,1,1,Kieran Trippier,4,DF,0.6,28,0.8,4,0,Atletico Madrid,0,360,ENG,0,0
+1.0,1,0,Diego Costa,4,FW,1.0,30,1.0,4,0,Atletico Madrid,1,318,ESP,1,0
+0.0,0,0,Mario Hermoso,3,DF,0.0,24,0.0,5,0,Atletico Madrid,1,351,ESP,1,0
+1.5,0,1,João Félix,3,MF,1.0,19,2.2,4,2,Atletico Madrid,0,291,POR,0,1
+1.1,0,0,Ángel Correa,3,"FW,MF",0.4,24,1.1,6,0,Atletico Madrid,1,263,ARG,1,0
+0.5,1,0,José María Giménez,3,DF,0.6,24,0.5,3,0,Atletico Madrid,0,195,URU,0,0
+0.2,0,0,Héctor Herrera,2,MF,0.4,29,0.2,5,1,Atletico Madrid,1,206,MEX,1,0
+0.0,0,0,Santiago Arias,2,DF,0.2,27,0.0,2,0,Atletico Madrid,0,180,COL,0,0
+0.2,0,0,Thomas Lemar,1,MF,0.5,23,0.2,6,0,Atletico Madrid,0,182,FRA,0,0
+0.3,0,0,Vitolo,1,"FW,MF",0.0,29,0.3,3,0,Atletico Madrid,0,97,ESP,0,0
+0.6,0,0,Stefan Savić,1,"DF,MF",0.0,28,0.6,1,1,Atletico Madrid,0,90,MNE,0,0
+0.0,0,0,Marcos Llorente,0,MF,0.0,24,0.0,1,0,Atletico Madrid,0,9,ESP,0,0
+,,,Antonio Adán,0,GK,,32,,0,,Atletico Madrid,,,ESP,,
+,,,Ivan Šaponjić,0,FW,,21,,0,,Atletico Madrid,,,SRB,,
+0.2,0,0,Sven Bender,6,MF,0.0,30,0.2,6,1,Bayer Leverkusen,0,540,GER,0,0
+0.0,0,0,Lukáš Hrádecký,6,GK,0.0,29,0.0,6,0,Bayer Leverkusen,0,540,FIN,0,0
+1.0,0,0,Kevin Volland,5,FW,0.3,27,1.0,6,1,Bayer Leverkusen,0,458,GER,0,0
+0.0,0,0,Jonathan Tah,5,DF,0.1,23,0.0,5,0,Bayer Leverkusen,1,450,GER,1,0
+0.9,0,0,Kai Havertz,5,MF,0.4,20,0.9,5,0,Bayer Leverkusen,0,434,GER,0,0
+0.5,1,0,Charles Aránguiz,5,MF,0.3,30,0.5,5,0,Bayer Leverkusen,2,415,CHI,2,0
+0.3,1,0,Karim Bellarabi,5,"FW,MF",1.2,29,0.3,5,0,Bayer Leverkusen,2,413,GER,2,0
+0.4,0,0,Kerem Demirbay,5,MF,0.4,26,0.4,5,0,Bayer Leverkusen,0,375,GER,0,0
+0.1,0,0,Wendell,4,DF,0.1,26,0.1,4,0,Bayer Leverkusen,1,351,BRA,1,0
+0.1,0,0,Julian Baumgartlinger,3,"DF,MF",0.0,31,0.1,6,0,Bayer Leverkusen,0,345,AUT,0,0
+0.0,0,0,Lars Bender,3,MF,0.3,30,0.0,4,0,Bayer Leverkusen,0,270,GER,0,0
+0.1,0,0,Mitchell Weiser,3,"DF,MF",0.4,25,0.1,3,0,Bayer Leverkusen,1,270,GER,1,0
+0.4,0,0,Nadiem Amiri,2,MF,0.5,22,0.4,4,0,Bayer Leverkusen,0,237,GER,0,0
+0.5,0,0,Lucas Alario,2,FW,0.1,26,0.5,5,0,Bayer Leverkusen,0,214,ARG,0,0
+0.2,0,0,Moussa Diaby,2,MF,0.1,20,0.2,2,0,Bayer Leverkusen,0,180,FRA,0,0
+0.0,0,0,Leon Bailey,2,FW,0.3,21,0.0,3,0,Bayer Leverkusen,0,114,JAM,0,0
+0.0,0,0,Daley Sinkgraven,1,MF,0.0,24,0.0,2,0,Bayer Leverkusen,0,100,NED,0,0
+0.0,0,0,Panagiotis Retsos,1,DF,0.0,20,0.0,2,0,Bayer Leverkusen,0,99,GRE,0,0
+0.0,0,0,Aleksandar Dragović,1,"DF,MF",0.0,28,0.0,3,0,Bayer Leverkusen,0,92,AUT,0,0
+0.4,0,0,Paulinho,0,FW,0.0,19,0.4,2,0,Bayer Leverkusen,0,36,BRA,0,0
+,,,Niklas Lomb,0,GK,,26,,0,,Bayer Leverkusen,,,GER,,
+,,,Ramazan Özcan,0,GK,,35,,0,,Bayer Leverkusen,,,AUT,,
+,,,Joel Pohjanpalo,0,FW,,24,,0,,Bayer Leverkusen,,,FIN,,
+0.0,0,0,Benedikt Höwedes,6,DF,0.0,31,0.0,6,0,Lokomotiv Moscow,1,540,GER,1,0
+1.3,0,0,Grzegorz Krychowiak,6,MF,0.1,29,1.3,6,1,Lokomotiv Moscow,2,533,POL,2,0
+0.1,0,0,Vedran Ćorluka,6,DF,0.0,33,0.1,6,0,Lokomotiv Moscow,1,519,CRO,1,0
+0.4,0,0,Dmitri Barinov,5,MF,0.1,22,0.4,5,1,Lokomotiv Moscow,3,450,RUS,3,0
+0.0,0,0,Guilherme Marinato,5,GK,0.0,33,0.0,5,0,Lokomotiv Moscow,0,450,RUS,0,0
+0.0,0,0,Maciej Rybus,5,MF,0.3,29,0.0,5,0,Lokomotiv Moscow,1,450,POL,1,0
+0.0,0,0,Vladislav Ignatyev,5,"FW,MF",0.1,32,0.0,5,0,Lokomotiv Moscow,2,440,RUS,2,0
+0.5,0,0,Rifat Zhemaletdinov,5,FW,0.8,22,0.5,5,0,Lokomotiv Moscow,0,359,RUS,0,0
+0.0,0,0,Murilo Cerqueira,4,DF,0.0,22,0.0,5,0,Lokomotiv Moscow,1,369,BRA,1,0
+1.8,0,0,Aleksei Miranchuk,4,MF,0.9,23,1.8,4,2,Lokomotiv Moscow,0,360,RUS,0,0
+0.5,2,0,João Mário,4,MF,0.7,26,0.5,4,0,Lokomotiv Moscow,1,355,POR,1,0
+0.2,0,0,Éder,4,FW,0.1,31,0.2,5,0,Lokomotiv Moscow,0,342,POR,0,0
+0.1,0,0,Brian Idowu,2,DF,0.0,27,0.1,4,0,Lokomotiv Moscow,0,237,NGA,0,0
+0.2,0,0,Fyodor Smolov,2,"FW,MF",0.0,29,0.2,4,0,Lokomotiv Moscow,0,201,RUS,0,0
+0.0,0,0,Anton Kochenkov,1,GK,0.0,32,0.0,1,0,Lokomotiv Moscow,0,90,RUS,0,0
+0.0,0,0,Solomon Kvirkvelia,1,DF,0.0,27,0.0,1,0,Lokomotiv Moscow,0,90,GEO,0,0
+0.6,0,0,Anton Miranchuk,1,MF,0.1,23,0.6,1,0,Lokomotiv Moscow,0,90,RUS,0,0
+0.0,0,0,Daniil Kulikov,0,MF,0.0,21,0.0,1,0,Lokomotiv Moscow,0,25,RUS,0,0
+0.0,0,0,Stanislav Magkeev,0,DF,0.0,20,0.0,1,0,Lokomotiv Moscow,0,21,RUS,0,0
+0.0,0,0,Aleksandr Kolomeytsev,0,MF,0.0,30,0.0,3,0,Lokomotiv Moscow,0,19,RUS,0,0
+,,,Nikita Medvedev,0,GK,,24,,0,,Lokomotiv Moscow,,,RUS,,
+,,,Roman Tugarev,0,FW,,21,,0,,Lokomotiv Moscow,,,RUS,,
+,,,Dmitri Zhivoglyadov,0,DF,,25,,0,,Lokomotiv Moscow,,,RUS,,
+,,,Luka Đorđević,0,FW,,25,,0,,Lokomotiv Moscow,,,MNE,,
+0.0,0,0,Péter Gulácsi,6,GK,0.1,29,0.0,6,0,RasenBallsport Leipzig,0,514,HUN,0,0
+1.5,1,2,Emil Forsberg,5,MF,1.4,27,3.0,6,3,RasenBallsport Leipzig,0,466,SWE,0,2
+0.3,1,0,Lukas Klostermann,5,DF,0.6,23,0.3,6,0,RasenBallsport Leipzig,0,457,GER,0,0
+0.8,2,0,Marcel Sabitzer,5,"FW,MF",1.3,25,0.8,5,2,RasenBallsport Leipzig,0,450,AUT,0,0
+0.5,0,0,Konrad Laimer,5,MF,0.5,22,0.5,6,1,RasenBallsport Leipzig,0,410,AUT,0,0
+2.7,1,1,Timo Werner,5,"FW,MF",0.5,23,3.5,6,3,RasenBallsport Leipzig,0,399,GER,0,1
+0.2,0,0,Dayot Upamecano,5,DF,0.0,20,0.2,5,0,RasenBallsport Leipzig,3,391,FRA,3,0
+0.2,0,0,Nordi Mukiele,4,DF,0.5,21,0.2,6,0,RasenBallsport Leipzig,1,461,FRA,1,0
+1.2,1,0,Yussuf Poulsen,4,FW,0.2,25,1.2,5,0,RasenBallsport Leipzig,1,381,DEN,1,0
+0.4,0,0,Diego Demme,4,"DF,MF",0.0,27,0.4,5,1,RasenBallsport Leipzig,0,364,GER,0,0
+0.0,0,0,Willi Orban,3,DF,0.0,26,0.0,3,0,RasenBallsport Leipzig,1,270,HUN,1,0
+0.6,0,0,Christopher Nkunku,3,MF,0.8,21,0.6,5,0,RasenBallsport Leipzig,0,252,FRA,0,0
+0.0,0,0,Marcel Halstenberg,3,DF,0.2,27,0.0,3,0,RasenBallsport Leipzig,0,218,GER,0,0
+0.1,0,0,Amadou Haidara,2,MF,0.3,21,0.1,4,0,RasenBallsport Leipzig,2,213,MLI,2,0
+0.0,0,0,Marcelo Saracchi,2,DF,0.3,21,0.0,2,0,RasenBallsport Leipzig,1,160,URU,1,0
+0.0,0,0,Ibrahima Konaté,2,DF,0.0,20,0.0,2,0,RasenBallsport Leipzig,0,113,FRA,0,0
+0.0,0,0,Kevin Kampl,1,MF,0.0,28,0.0,2,0,RasenBallsport Leipzig,0,135,SVN,0,0
+0.0,0,0,Ethan Ampadu,1,MF,0.0,18,0.0,2,0,RasenBallsport Leipzig,0,91,WAL,0,0
+0.0,0,0,Ademola Lookman,1,FW,0.2,21,0.0,1,0,RasenBallsport Leipzig,0,69,ENG,0,0
+1.5,0,0,Matheus Cunha,0,,0.0,20,1.5,2,0,RasenBallsport Leipzig,0,80,BRA,0,0
+0.0,0,0,Yvon Mvogo,0,GK,0.0,25,0.0,1,0,RasenBallsport Leipzig,0,26,SUI,0,0
+0.5,0,0,Patrik Schick,0,FW,0.0,23,0.5,1,0,RasenBallsport Leipzig,0,20,CZE,0,0
+,,,Tom Krauß,0,MF,,18,,0,,RasenBallsport Leipzig,,,GER,,
+0.0,0,0,Anthony Lopes,6,GK,0.0,28,0.0,6,0,Lyon,0,540,POR,0,0
+0.3,1,0,Lucas Tousart,6,MF,0.0,22,0.3,6,0,Lyon,0,514,FRA,0,0
+0.6,1,0,Moussa Dembélé,5,FW,0.7,23,0.6,6,0,Lyon,1,461,FRA,1,0
+0.1,0,0,Jason Denayer,5,DF,0.1,24,0.1,5,0,Lyon,0,450,BEL,0,0
+0.1,2,0,Leo Dubois,5,DF,0.8,24,0.1,5,0,Lyon,1,450,FRA,1,0
+1.8,0,1,Memphis Depay,5,"FW,MF",0.8,25,2.5,5,5,Lyon,0,394,NED,0,1
+0.1,0,0,Thiago Mendes,4,MF,0.1,27,0.1,5,0,Lyon,1,394,BRA,1,0
+0.1,0,0,Youssouf Koné,4,DF,0.1,24,0.1,5,0,Lyon,2,392,MLI,2,0
+0.2,0,0,Marcelo,4,DF,0.0,32,0.2,6,0,Lyon,1,363,BRA,1,0
+0.2,2,0,Houssem Aouar,4,MF,0.4,21,0.2,4,1,Lyon,0,355,FRA,0,0
+0.2,0,0,Joachim Andersen,4,DF,0.0,23,0.2,4,1,Lyon,1,353,DEN,1,0
+0.3,0,0,Jeff Reine-Adélaïde,3,MF,0.1,21,0.3,5,0,Lyon,0,276,FRA,0,0
+0.4,0,0,Martin Terrier,3,FW,0.3,22,0.4,4,1,Lyon,0,217,FRA,0,0
+0.2,0,0,Bertrand Traoré,2,MF,0.1,23,0.2,5,1,Lyon,0,229,BFA,0,0
+0.3,1,0,Maxwel Cornet,2,FW,0.1,22,0.3,4,0,Lyon,0,199,CIV,0,0
+0.2,0,0,Fernando Marçal,2,DF,0.1,30,0.2,3,0,Lyon,1,165,BRA,1,0
+0.0,0,0,Kenny Tete,1,DF,0.2,23,0.0,1,0,Lyon,0,90,NED,0,0
+0.0,0,0,Rafael,1,"DF,MF",0.0,29,0.0,1,0,Lyon,0,73,BRA,0,0
+0.0,0,0,Mathis Cherki,0,MF,0.0,15,0.0,1,0,Lyon,0,15,FRA,0,0
+0.0,0,0,Amine Gouiri,0,FW,0.0,19,0.0,1,0,Lyon,0,7,FRA,0,0
+0.4,0,0,Jean Lucas,0,MF,0.0,21,0.4,1,0,Lyon,0,3,BRA,0,0
+,,,Maxence Caqueret,0,MF,,19,,0,,Lyon,,,FRA,,
+,,,Ciprian Tătărușanu,0,GK,,33,,0,,Lyon,,,ROU,,
+0.0,0,0,Rúben Dias,6,DF,0.0,22,0.0,6,0,Benfica,1,540,POR,1,0
+0.3,0,0,Álex Grimaldo,6,DF,0.8,23,0.3,6,0,Benfica,0,540,ESP,0,0
+0.0,0,0,Odisseas Vlachodimos,6,GK,0.0,25,0.0,6,0,Benfica,0,540,GRE,0,0
+0.0,0,0,Tomás Tavares,5,MF,0.4,18,0.0,5,0,Benfica,0,450,POR,0,0
+0.4,0,0,Gabriel,5,MF,0.2,25,0.4,5,0,Benfica,2,441,BRA,2,0
+1.4,1,0,Franco Cervi,5,MF,0.3,25,1.4,5,1,Benfica,0,398,ARG,0,0
+0.0,0,0,Francisco Reis Ferreira,5,DF,0.1,22,0.0,5,0,Benfica,0,376,POR,0,0
+0.4,2,1,Pizzi,4,"FW,MF",1.9,29,1.2,6,3,Benfica,1,403,POR,1,1
+0.3,1,0,Adel Taarabt,4,"FW,MF",0.9,30,0.3,4,0,Benfica,1,360,MAR,1,0
+0.9,0,0,Carlos,3,MF,0.1,24,0.9,5,1,Benfica,0,322,BRA,0,0
+0.5,0,0,Chiquinho,3,MF,0.1,24,0.5,3,0,Benfica,0,270,POR,0,0
+1.3,0,0,Haris Seferović,2,FW,0.1,27,1.3,5,2,Benfica,0,208,SUI,0,0
+0.0,0,0,Florentino Luís,2,MF,0.0,19,0.0,2,0,Benfica,1,180,POR,1,0
+0.0,0,0,Ljubomir Fejsa,2,MF,0.0,30,0.0,2,0,Benfica,0,150,SRB,0,0
+0.2,0,0,Gedson Fernandes,2,MF,0.0,20,0.2,2,0,Benfica,1,135,POR,1,0
+0.2,1,0,Rafa Silva,2,MF,0.5,26,0.2,3,1,Benfica,0,124,POR,0,0
+0.0,0,0,Jardel,1,DF,0.0,33,0.0,2,0,Benfica,0,164,BRA,0,0
+0.4,0,0,Raúl de Tomás,1,FW,0.1,24,0.4,4,1,Benfica,0,119,ESP,0,0
+0.0,0,0,André Almeida,1,"DF,MF",0.0,28,0.0,1,0,Benfica,0,90,POR,0,0
+,0,0,Jota,1,FW,,20,,2,0,Benfica,1,67,POR,1,0
+0.1,0,0,Caio Lucas Fernandes,0,MF,0.0,25,0.1,3,0,Benfica,0,31,BRA,0,0
+0.0,0,0,David Tavares,0,FW,0.0,20,0.0,1,0,Benfica,0,23,POR,0,0
+0.1,0,0,Andreas Samaris,0,MF,0.0,30,0.1,1,0,Benfica,0,9,GRE,0,0
+,,,Nuno Tavares,0,DF,,19,,0,,Benfica,,,POR,,
+,,,Ivan Zlobin,0,GK,,22,,0,,Benfica,,,RUS,,
+0.0,0,0,Wílmar Barrios,6,MF,0.0,25,0.0,6,0,Zenit St. Petersburg,2,540,COL,2,0
+0.8,1,0,Artem Dzyuba,6,FW,3.1,30,0.8,6,2,Zenit St. Petersburg,1,540,RUS,1,0
+0.2,0,0,Branislav Ivanović,6,DF,0.0,35,0.2,6,0,Zenit St. Petersburg,0,520,SRB,0,0
+0.1,1,0,Douglas Santos,6,DF,0.2,25,0.1,6,0,Zenit St. Petersburg,2,505,BRA,2,0
+3.1,0,0,Sardar Azmoun,6,"FW,MF",0.1,24,3.1,6,2,Zenit St. Petersburg,1,466,IRN,1,0
+0.3,2,0,Magomed Ozdoyev,5,MF,0.1,26,0.3,6,1,Zenit St. Petersburg,2,463,RUS,2,0
+0.0,0,0,Yaroslav Rakitskiy,5,DF,0.3,29,0.0,5,1,Zenit St. Petersburg,3,450,UKR,3,0
+0.1,0,0,Vyacheslav Karavayev,4,DF,0.0,24,0.1,6,0,Zenit St. Petersburg,0,415,RUS,0,0
+0.5,0,0,Sebastián Driussi,4,FW,0.3,23,0.5,5,0,Zenit St. Petersburg,0,363,ARG,0,0
+0.0,0,0,Mikhail Kerzhakov,4,GK,0.0,32,0.0,4,0,Zenit St. Petersburg,0,360,RUS,0,0
+0.3,0,0,Yordan Osorio,3,DF,0.0,25,0.3,5,0,Zenit St. Petersburg,0,322,VEN,0,0
+0.2,0,0,Oleg Shatov,3,MF,0.1,29,0.2,4,0,Zenit St. Petersburg,1,235,RUS,1,0
+0.0,0,0,Andrey Lunyov,2,GK,0.0,27,0.0,2,0,Zenit St. Petersburg,0,180,RUS,0,0
+0.0,0,0,Aleksandr Erokhin,2,MF,0.0,29,0.0,4,0,Zenit St. Petersburg,2,166,RUS,2,0
+0.0,0,0,Igor Smolnikov,2,"DF,MF",0.0,30,0.0,3,0,Zenit St. Petersburg,0,138,RUS,0,0
+0.1,0,0,Daler Kuzyaev,1,MF,0.6,26,0.1,4,0,Zenit St. Petersburg,3,136,RUS,3,0
+0.1,1,0,Yuri Zhirkov,1,"DF,MF",0.1,35,0.1,2,0,Zenit St. Petersburg,0,73,RUS,0,0
+0.0,0,0,Aleksei Sutormin,0,FW,0.0,25,0.0,2,0,Zenit St. Petersburg,0,25,RUS,0,0
+0.2,0,0,Róbert Mak,0,"FW,MF",0.0,28,0.2,2,0,Zenit St. Petersburg,0,8,SVK,0,0
+,,,Matías Kranevitter,0,MF,,26,,0,,Zenit St. Petersburg,,,ARG,,
+,,,Emanuel Mammana,0,DF,,23,,0,,Zenit St. Petersburg,,,ARG,,
+,,,Leon Musayev,0,MF,,20,,0,,Zenit St. Petersburg,,,RUS,,
+,,,Aleksandr Vasyutin,0,GK,,24,,0,,Zenit St. Petersburg,,,RUS,,
+,,,Ilya Vorobyov,0,FW,,20,,0,,Zenit St. Petersburg,,,RUS,,
+0.4,2,3,Daniel Parejo,6,MF,1.1,30,2.6,6,1,Valencia,1,540,ESP,1,1
+0.2,0,0,Daniel Wass,6,"DF,MF",0.3,30,0.2,6,1,Valencia,2,540,DEN,2,0
+0.2,0,0,Gabriel Paulista,6,DF,0.0,28,0.2,6,0,Valencia,1,539,BRA,1,0
+0.0,0,0,Jasper Cillessen,5,GK,0.0,30,0.0,5,0,Valencia,0,450,NED,0,0
+2.9,2,0,Rodrigo,5,FW,0.6,28,2.9,5,2,Valencia,0,450,ESP,0,0
+0.0,0,0,Ezequiel Garay,4,DF,0.0,32,0.0,5,0,Valencia,3,363,ARG,3,0
+0.1,0,0,José Luis Gayà,4,"DF,MF",1.1,24,0.1,4,0,Valencia,0,360,ESP,0,0
+0.0,0,0,Francis Coquelin,4,"DF,MF",0.0,28,0.0,5,0,Valencia,1,356,FRA,1,0
+0.5,1,0,Maxi Gómez,4,FW,0.1,22,0.5,5,0,Valencia,1,347,URU,1,0
+0.4,1,0,Ferrán Torres,3,MF,0.9,19,0.4,4,1,Valencia,0,300,ESP,0,0
+0.1,0,0,Jaume Costa,3,DF,0.1,31,0.1,3,0,Valencia,1,247,ESP,1,0
+0.0,0,0,Geoffrey Kondogbia,3,MF,0.0,26,0.0,3,1,Valencia,0,225,CTA,0,0
+0.4,0,0,Denis Cheryshev,3,"FW,MF",0.0,28,0.4,4,1,Valencia,0,221,RUS,0,0
+0.3,1,0,Kévin Gameiro,3,FW,0.5,32,0.3,5,0,Valencia,0,212,FRA,0,0
+0.3,0,0,Carlos Soler,2,MF,0.0,22,0.3,3,1,Valencia,0,213,ESP,0,0
+0.0,0,0,Mouctar Diakhaby,2,DF,0.1,22,0.0,3,0,Valencia,2,173,FRA,2,0
+0.1,0,0,Lee Kangin,1,MF,0.0,18,0.1,5,0,Valencia,1,124,KOR,1,0
+0.0,0,0,Jaume Doménech,1,GK,0.0,28,0.0,1,0,Valencia,1,90,ESP,1,0
+0.1,0,0,Gonçalo Guedes,1,FW,0.0,22,0.1,1,0,Valencia,0,90,POR,0,0
+0.1,0,0,Manu Vallejo,0,,0.0,22,0.1,2,0,Valencia,1,72,ESP,1,0
+0.0,0,0,Thierry Correia,0,DF,0.0,20,0.0,1,0,Valencia,0,20,POR,0,0
+0.0,0,0,Eliaquim Mangala,0,DF,0.0,28,0.0,1,0,Valencia,0,,FRA,0,0
+,,,Cristian,0,GK,,21,,0,,Valencia,,,ESP,,
+,,,Esquerdo,0,MF,,20,,0,,Valencia,,,ESP,,
+,,,Pablo Gozalbez,0,FW,,18,,0,,Valencia,,,ESP,,
+,,,Rubén Sobrino,0,FW,,27,,0,,Valencia,,,ESP,,
+0.0,0,0,Kepa Arrizabalaga,6,GK,0.0,24,0.0,6,0,Chelsea,1,540,ESP,1,0
+1.2,0,0,César Azpilicueta,6,DF,0.6,29,1.2,6,2,Chelsea,2,540,ESP,2,0
+0.2,1,0,Kurt Zouma,6,DF,0.7,24,0.2,6,0,Chelsea,2,523,FRA,2,0
+0.2,0,2,Jorginho,6,MF,0.5,27,1.7,6,2,Chelsea,2,522,ITA,2,2
+1.0,1,0,Willian,6,MF,1.8,30,1.0,6,1,Chelsea,0,501,BRA,0,0
+3.9,1,0,Tammy Abraham,6,FW,0.5,21,3.9,6,2,Chelsea,0,458,ENG,0,0
+0.5,0,0,Mateo Kovačić,5,MF,0.9,25,0.5,6,1,Chelsea,0,432,CRO,0,0
+0.4,1,0,Fikayo Tomori,4,DF,0.4,21,0.4,4,0,Chelsea,1,360,ENG,1,0
+0.6,0,0,Marcos Alonso,4,DF,0.3,28,0.6,4,0,Chelsea,0,315,ESP,0,0
+0.4,0,0,Mason Mount,4,MF,0.3,20,0.4,6,0,Chelsea,0,271,ENG,0,0
+0.3,0,0,N'Golo Kanté,3,MF,0.9,28,0.3,3,0,Chelsea,1,270,FRA,1,0
+0.9,1,0,Christian Pulisic,3,MF,1.4,20,0.9,4,1,Chelsea,0,266,USA,0,0
+0.1,0,0,Reece James,2,,0.5,19,0.1,4,1,Chelsea,1,202,ENG,1,0
+0.1,0,0,Andreas Christensen,2,DF,0.0,23,0.1,2,0,Chelsea,0,180,DEN,0,0
+0.3,1,0,Callum Hudson-Odoi,1,MF,0.4,18,0.3,4,0,Chelsea,0,171,ENG,0,0
+0.1,1,0,Emerson Palmieri,1,DF,0.2,24,0.1,2,0,Chelsea,0,108,ITA,0,0
+0.0,0,0,Antonio Rüdiger,1,DF,0.0,26,0.0,1,0,Chelsea,0,90,GER,0,0
+1.6,0,0,Michy Batshuayi,0,FW,0.1,25,1.6,4,1,Chelsea,0,85,BEL,0,0
+0.1,0,0,Pedro,0,"FW,MF",0.0,32,0.1,2,0,Chelsea,0,79,ESP,0,0
+0.1,0,0,Olivier Giroud,0,FW,0.0,32,0.1,1,0,Chelsea,1,17,FRA,1,0
+0.0,0,1,Ross Barkley,0,MF,0.0,25,0.8,1,0,Chelsea,0,10,ENG,0,0
+,,,Willy Caballero,0,GK,,37,,0,,Chelsea,,,ARG,,
+,,,Billy Gilmour,0,MF,,18,,0,,Chelsea,,,SCO,,
+,,,Marc Guéhi,0,,,19,,0,,Chelsea,,,ENG,,
+0.0,0,0,André Onana,6,GK,0.0,23,0.0,6,0,Ajax,3,540,CMR,3,0
+0.7,3,0,Dušan Tadić,6,MF,1.1,30,0.7,6,0,Ajax,2,540,SRB,2,0
+0.2,1,0,Nicolás Tagliafico,6,DF,0.4,26,0.2,6,1,Ajax,2,539,ARG,2,0
+0.2,0,0,Lisandro Martínez,6,DF,0.1,21,0.2,6,0,Ajax,2,538,ARG,2,0
+1.0,4,0,Hakim Ziyech,6,"FW,MF",2.1,26,1.0,6,2,Ajax,0,499,MAR,0,0
+1.0,1,0,Donny van de Beek,5,MF,1.0,22,1.0,5,2,Ajax,1,448,NED,1,0
+0.1,0,0,Daley Blind,5,"DF,MF",0.1,29,0.1,5,0,Ajax,3,427,NED,3,0
+0.0,0,0,Joël Veltman,5,DF,0.0,27,0.0,5,0,Ajax,3,427,NED,3,0
+2.4,0,0,Quincy Promes,5,"FW,MF",0.2,27,2.4,5,4,Ajax,2,425,NED,2,0
+0.1,0,0,Sergiño Dest,4,DF,0.2,18,0.1,5,0,Ajax,0,405,USA,0,0
+0.5,0,0,Edson Álvarez,4,DF,0.3,21,0.5,6,1,Ajax,1,377,MEX,1,0
+0.1,0,0,Noussair Mazraoui,3,DF,0.0,21,0.1,3,0,Ajax,1,225,MAR,1,0
+0.1,1,0,David Neres,2,FW,0.1,22,0.1,4,0,Ajax,0,180,BRA,0,0
+0.2,0,0,Noa Lang,1,MF,0.1,20,0.2,3,0,Ajax,0,128,NED,0,0
+0.0,0,0,Perr Schuurs,1,DF,0.0,19,0.0,2,0,Ajax,0,108,NED,0,0
+0.0,0,0,Zakaria Labyad,1,MF,0.0,26,0.0,1,0,Ajax,0,45,MAR,0,0
+0.1,0,0,Klaas-Jan Huntelaar,0,FW,0.0,35,0.1,4,0,Ajax,0,33,NED,0,0
+0.0,0,0,Siem de Jong,0,"FW,MF",0.0,30,0.0,4,0,Ajax,0,9,NED,0,0
+0.0,0,0,Jurgen Ekkelenkamp,0,MF,0.0,19,0.0,1,0,Ajax,0,2,NED,0,0
+,,,Lassina Franck Traoré,0,FW,,18,,0,,Ajax,,,BFA,,
+,,,Răzvan Marin,0,MF,,23,,0,,Ajax,,,ROU,,
+,,,Kik Pierie,0,DF,,19,,0,,Ajax,,,NED,,
+,,,Jurrien Timber,0,DF,,18,,0,,Ajax,,,NED,,
+,,,Bruno Varela,0,GK,,24,,0,,Ajax,,,POR,,
+0.3,0,0,Zeki Çelik,6,DF,0.8,22,0.3,6,0,Lille,2,540,TUR,2,0
+0.1,0,0,Gabriel Dos Santos,6,DF,0.0,21,0.1,6,0,Lille,2,540,BRA,2,0
+0.1,0,0,Boubakary Soumaré,6,MF,0.6,20,0.1,6,0,Lille,0,527,FRA,0,0
+0.0,0,0,Mike Maignan,6,GK,0.0,23,0.0,6,0,Lille,0,522,FRA,0,0
+2.3,0,0,Victor Osimhen,5,FW,1.1,20,2.3,5,2,Lille,1,450,NGA,1,0
+0.5,2,0,Benjamin André,5,"DF,MF",1.0,28,0.5,5,0,Lille,1,406,FRA,1,0
+1.2,0,0,Yusuf Yazıcı,4,MF,0.3,22,1.2,6,0,Lille,0,372,TUR,0,0
+0.0,0,0,José Fonte,4,DF,0.1,35,0.0,4,0,Lille,1,360,POR,1,0
+0.7,2,0,Jonathan Bamba,3,MF,1.2,23,0.7,6,0,Lille,0,280,FRA,0,0
+0.4,0,0,Luiz Araújo,3,FW,0.0,23,0.4,6,0,Lille,1,277,BRA,1,0
+0.0,0,0,Domagoj Bradarić,3,DF,0.1,19,0.0,3,0,Lille,1,270,CRO,1,0
+0.0,0,0,Tiago Djaló,3,DF,0.0,19,0.0,3,0,Lille,1,267,POR,1,0
+1.0,0,0,Jonathan Ikone,3,FW,0.6,21,1.0,4,1,Lille,1,240,FRA,1,0
+1.0,0,0,Loïc Rémy,2,FW,0.0,32,1.0,4,1,Lille,0,207,FRA,0,0
+0.0,0,0,Reinildo Mandava,2,DF,0.0,25,0.0,2,0,Lille,1,180,MOZ,1,0
+0.0,0,0,Renato Sanches,1,MF,0.1,21,0.0,5,0,Lille,1,121,POR,1,0
+0.0,0,0,Xeka,1,MF,0.0,24,0.0,3,0,Lille,1,118,POR,1,0
+0.0,0,0,Jérémy Pied,1,"FW,MF",0.0,30,0.0,1,0,Lille,0,90,FRA,0,0
+0.0,0,0,Adama Soumaoro,1,DF,0.0,27,0.0,1,0,Lille,0,89,FRA,0,0
+0.0,0,0,Thiago Maia,1,MF,0.0,22,0.0,1,0,Lille,0,66,BRA,0,0
+0.0,0,0,Leonardo César Jardim,0,GK,0.0,24,0.0,1,0,Lille,0,18,BRA,0,0
