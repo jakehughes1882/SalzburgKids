@@ -1,0 +1,60 @@
+<html>
+
+<div>
+<style>
+  body {
+    font: 11px sans-serif;
+  }
+
+  .axis text {
+    font: 12px sans-serif;
+    fill: #f0eadc
+  }
+
+  .axis path,
+  .nv-axis.nv-x .tick line {
+        display:none;
+    }
+  .tick line{
+  visibility:hidden;
+        }
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  div.tooltipbar {
+        position: absolute;
+        text-align: right;
+        width: 140px;
+        height: 40px;
+        padding: 6px;
+        font: 12px sans-serif;
+        background: #f0eadc;
+        border: 1px solid lightgray;
+        border-radius: 8px;
+        pointer-events: none;
+    }
+    
+  #content {
+    width: 500px;
+    padding-left: 50px;
+    font: 14px sans-serif;
+    line-height: 1.5em;
+  }
+  </style>
+<body>
+  <div id="container_player_dribbles_bar"
+     style = "
+     text-align: center;">
+  <h4 style = "text-align: center;
+            color: #f0eadc">Succesfull Dribbles By Player</h4>
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script id="player_dribbles_bar" src="PlayerDribbleBar.js"></script>
+  
+  </div>
+</body>
+</div>
+
+</html>

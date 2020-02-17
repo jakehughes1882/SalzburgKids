@@ -243,7 +243,7 @@ def fbrefScrape():
 		cross_penalty_area = tablepassing.find_all("td", {"data-stat": "crosses_into_penalty_area"})
 
 		PlayerDic_Passing = {}
-		for i in range(len(PlayerDic_Passing)):
+		for i in range(len(PlayerName_passing)):
 			if PlayerName_passing[i] == 'Squad Total':
 				continue
 			else:
